@@ -1,25 +1,30 @@
+import os
+import vosk
 from vosk import Model, KaldiRecognizer
-import wave
+import pyaudio
 import json
 
-def transcribe_vosk(audio_file):
-    model = Model("model")  # Model dosyasının yolu
-    wf = wave.open(audio_file, "rb")
-    rec = KaldiRecognizer(model, wf.getframerate())
+# Set path to the new model
+model_path = "vosk-model-small-tr-0.3"
 
-    results = []
-    while True:
-        data = wf.readframes(4000)
-        if len(data) == 0:
-            break
-        if rec.AcceptWaveform(data):
-            result = rec.Result()
-            results.append(json.loads(result))
+if not os.path.exists(model_path):
+    print(f"Model not found at {model_path}")
+    exit(1)
 
-    final_result = rec.FinalResult()
-    results.append(json.loads(final_result))
-    transcription = " ".join([res['text'] for res in results if 'text' in res])
-    return transcription
+model = Model(model_path)
+recognizer = KaldiRecognizer(model, 16000)
 
-text = transcribe_vosk("output.wav")
-print(text)
+p = pyaudio.PyAudio()
+stream = p.open(format=pyaudio.paInt16, channels=1, rate=16000, input=True, frames_per_buffer=8000)
+stream.start_stream()
+
+print("Listening...")
+
+while True:
+    data = stream.read(4000, exception_on_overflow=False)
+    if len(data) == 0:
+        break
+
+    if recognizer.AcceptWaveform(data):
+        result = json.loads(recognizer.Result())
+        print(result.get("text", ""))
