@@ -1,0 +1,1001 @@
+text,label
+Başımın bir tarafında şiddetli ve ani bir ağrı yaşıyorum.,cluster
+Eklem bölgelerinde ağrı ve ateş hissediyorum.,rheumatic_fever
+Yüksek ateş ve kızıl nedeniyle cildimde döküntüler var.,scarlet_fever
+Şakaklarımda ve başımın arka kısmında basınç hissediyorum.,tension
+Yüzümde ve alnımda baskı ve dolgunluk hissediyorum.,sinus
+Boynumda ve omuzlarımda gerginlik hissediyorum.,tension
+Ateş ve boğazda şiddetli ağrı yaşıyorum.,scarlet_fever
+Tifo yüzünden halsiz ve yüksek ateşliyim.,typhoid
+Gözümün etrafında yoğun bir ağrı hissediyorum.,cluster
+Gözümde ve başımda aynı anda başlayan ani ağrılar yaşıyorum.,cluster
+Yüksek ateş ve sarı humma belirtileri yaşıyorum.,yellow_fever
+Karaciğer ağrısı ve yüksek ateş hissediyorum.,yellow_fever
+Cildimde kızarıklık ve ateş hissediyorum.,scarlet_fever
+Vücudum yanıyormuş gibi hissediyorum ve üşüyorum.,fever
+Q ateşi yüzünden ateşim ve baş ağrım var.,q_fever
+Bahar alerjisi nedeniyle yüksek ateş ve burun tıkanıklığı yaşıyorum.,hay_fever
+Gözümde ve başımda aynı anda başlayan ani ağrılar yaşıyorum.,cluster
+Alerji belirtileri ile birlikte ateş yaşıyorum.,hay_fever
+Yüksek ateş ve karın bölgesinde şiddetli ağrı yaşıyorum.,typhoid
+Şiddetli baş ağrısı ve mide bulantısı hissediyorum.,migraine
+Şakaklarımda ve başımın arka kısmında basınç hissediyorum.,tension
+Sarı humma nedeniyle ateş ve mide ağrısı çekiyorum.,yellow_fever
+Yüksek ateş ve karın bölgesinde şiddetli ağrı yaşıyorum.,typhoid
+Vücudum yanıyormuş gibi hissediyorum ve üşüyorum.,fever
+Karaciğer ağrısı ve yüksek ateş hissediyorum.,yellow_fever
+Alerjik reaksiyonlarla birlikte ateş ve hapşırma hissediyorum.,hay_fever
+Sürekli terliyorum ve ateşim var.,fever
+Ateşle birlikte kas ve eklem ağrıları çekiyorum.,fever
+Vücudum yanıyormuş gibi hissediyorum ve üşüyorum.,fever
+Sarı humma nedeniyle ateş ve mide ağrısı çekiyorum.,yellow_fever
+Sarı humma yüzünden ateşim var ve cildim sararmış.,yellow_fever
+Yüksek ateş ve karın bölgesinde şiddetli ağrı yaşıyorum.,typhoid
+Göz çevremde ağrı ve göz yaşarması oluyor.,cluster
+Şakaklarımda ve başımın arka kısmında basınç hissediyorum.,tension
+Burun akıntısı ve yüzümde ağrı hissediyorum.,sinus
+Şiddetli baş ağrısı ve mide bulantısı hissediyorum.,migraine
+Burun tıkanıklığı ile birlikte baş ağrısı yaşıyorum.,sinus
+Başımın bir tarafında zonklayan bir ağrı var ve ışığa hassasiyetim var.,migraine
+Bahar alerjisi nedeniyle yüksek ateş ve burun tıkanıklığı yaşıyorum.,hay_fever
+Q ateşi nedeniyle kas ağrıları ve ateş hissediyorum.,q_fever
+Gözümün etrafında yoğun bir ağrı hissediyorum.,cluster
+Gözümün arkasında zonklayıcı bir ağrı hissediyorum.,cluster
+Karın bölgemde ağrı ve ateş hissediyorum.,typhoid
+"Başım ağrıyor ve midem bulanıyor, ışığa bakamıyorum.",migraine
+Yüksek ateşim var ve yemek yemek istemiyorum.,fever
+Sarı humma belirtileriyle yüksek ateş ve baş ağrısı yaşıyorum.,yellow_fever
+Q ateşi nedeniyle kas ağrıları ve ateş hissediyorum.,q_fever
+Eklem bölgelerinde ağrı ve ateş hissediyorum.,rheumatic_fever
+Ateş ve boğazda şiddetli ağrı yaşıyorum.,scarlet_fever
+Yüksek ateş ve sarı humma belirtileri yaşıyorum.,yellow_fever
+Romatizmal ateş nedeniyle göğüs ağrısı ve yüksek ateşim var.,rheumatic_fever
+Boynumda ve omuzlarımda gerginlik hissediyorum.,tension
+Yüzümde ve alnımda baskı ve dolgunluk hissediyorum.,sinus
+Gözümün etrafında yoğun bir ağrı hissediyorum.,cluster
+Başımın bir tarafında şiddetli ve ani bir ağrı yaşıyorum.,cluster
+Bahar alerjisi nedeniyle yüksek ateş ve burun tıkanıklığı yaşıyorum.,hay_fever
+Sarı humma yüzünden ateşim var ve cildim sararmış.,yellow_fever
+"Çalışırken baş ağrım artıyor, sıkışma hissi yaşıyorum.",tension
+Burun akıntısı ve yüzümde ağrı hissediyorum.,sinus
+Sürekli terliyorum ve ateşim var.,fever
+Yüksek ateş ve romatizmal ağrılar yaşıyorum.,rheumatic_fever
+Yüksek ateş ve sarı humma belirtileri yaşıyorum.,yellow_fever
+Romatizmal ateş belirtileriyle eklem ağrıları ve ateş hissediyorum.,rheumatic_fever
+Şakaklarımda ve başımın arka kısmında basınç hissediyorum.,tension
+Sarı humma nedeniyle ateş ve mide ağrısı çekiyorum.,yellow_fever
+Başımın bir tarafında zonklayan bir ağrı var ve ışığa hassasiyetim var.,migraine
+Yüksek ateş ve kas ağrıları yaşıyorum.,q_fever
+Karın bölgemde ağrı ve ateş hissediyorum.,typhoid
+Yüksek ateş ve romatizmal ağrılar yaşıyorum.,rheumatic_fever
+Eklem bölgelerinde ağrı ve ateş hissediyorum.,rheumatic_fever
+Kızıl yüzünden yüksek ateşim var ve boğazım çok ağrıyor.,scarlet_fever
+Gözlerimde ışık çakmaları görüyorum ve başım ağrıyor.,migraine
+Göz çevremde ağrı ve göz yaşarması oluyor.,cluster
+Burun akıntısı ve yüzümde ağrı hissediyorum.,sinus
+Tifo belirtileri ile ateşim var ve kendimi çok yorgun hissediyorum.,typhoid
+"Gün boyunca süren donuk, sıkıcı bir baş ağrım var.",tension
+Boynumda ve omuzlarımda gerginlik hissediyorum.,tension
+Tifo nedeniyle yüksek ateşim var ve karın ağrısı çekiyorum.,typhoid
+Ateş ve alerji yüzünden gözlerimde kaşıntı var.,hay_fever
+Sarı humma belirtileriyle yüksek ateş ve baş ağrısı yaşıyorum.,yellow_fever
+Sarı humma yüzünden ateşim var ve cildim sararmış.,yellow_fever
+Sarı humma nedeniyle ateş ve mide ağrısı çekiyorum.,yellow_fever
+Tifo yüzünden halsiz ve yüksek ateşliyim.,typhoid
+Ateş ve boğazda şiddetli ağrı yaşıyorum.,scarlet_fever
+Sarı humma yüzünden ateşim var ve cildim sararmış.,yellow_fever
+Vücudum yanıyormuş gibi hissediyorum ve üşüyorum.,fever
+Şakaklarımda ve başımın arka kısmında basınç hissediyorum.,tension
+"Başım ağrıyor ve midem bulanıyor, ışığa bakamıyorum.",migraine
+Q ateşi yüzünden ateşim ve baş ağrım var.,q_fever
+Sarı humma belirtileriyle yüksek ateş ve baş ağrısı yaşıyorum.,yellow_fever
+Gece boyunca yüksek ateşle uyanıyorum.,fever
+Q ateşi belirtileri ile ateş ve halsizlik hissediyorum.,q_fever
+Gözümün etrafında yoğun bir ağrı hissediyorum.,cluster
+Kızıl belirtileriyle ateşim ve boğaz ağrım var.,scarlet_fever
+Gözümde ve başımda aynı anda başlayan ani ağrılar yaşıyorum.,cluster
+Gözümde ve başımda aynı anda başlayan ani ağrılar yaşıyorum.,cluster
+Başımın bir tarafında şiddetli ve ani bir ağrı yaşıyorum.,cluster
+Q ateşi yüzünden ateşim ve baş ağrım var.,q_fever
+Burun akıntısı ve yüzümde ağrı hissediyorum.,sinus
+Bahar alerjisi nedeniyle yüksek ateş ve burun tıkanıklığı yaşıyorum.,hay_fever
+Cildimde kızarıklık ve ateş hissediyorum.,scarlet_fever
+Cildimde kızarıklık ve ateş hissediyorum.,scarlet_fever
+Eklem bölgelerinde ağrı ve ateş hissediyorum.,rheumatic_fever
+Bahar alerjisi nedeniyle ateşim ve burun akıntım var.,hay_fever
+"Gün boyunca süren donuk, sıkıcı bir baş ağrım var.",tension
+Q ateşi yüzünden ateşim ve baş ağrım var.,q_fever
+Romatizmal ateş nedeniyle göğüs ağrısı ve yüksek ateşim var.,rheumatic_fever
+Tifo belirtileri ile ateşim var ve kendimi çok yorgun hissediyorum.,typhoid
+Sarı humma nedeniyle ateş ve mide ağrısı çekiyorum.,yellow_fever
+Gözümün arkasında zonklayıcı bir ağrı hissediyorum.,cluster
+Bahar alerjisi nedeniyle ateşim ve burun akıntım var.,hay_fever
+Gözlerimde ışık çakmaları görüyorum ve başım ağrıyor.,migraine
+Şakaklarımda ve başımın arka kısmında basınç hissediyorum.,tension
+Sarı humma yüzünden ateşim var ve cildim sararmış.,yellow_fever
+Boynumda ve omuzlarımda gerginlik hissediyorum.,tension
+Burun akıntısı ve yüzümde ağrı hissediyorum.,sinus
+Sarı humma belirtileriyle yüksek ateş ve baş ağrısı yaşıyorum.,yellow_fever
+Gözlerimde ışık çakmaları görüyorum ve başım ağrıyor.,migraine
+Baş ağrısı ve yüksek ateş yaşıyorum.,q_fever
+Alerji belirtileri ile birlikte ateş yaşıyorum.,hay_fever
+Bahar alerjisi nedeniyle ateşim ve burun akıntım var.,hay_fever
+Sinüslerimde baskı ve başımda sürekli bir ağrı var.,sinus
+Yüksek ateş ve sarı humma belirtileri yaşıyorum.,yellow_fever
+"Başımda sıkışma hissi var, özellikle alın ve şakaklarda.",tension
+Ateş ve boğazda şiddetli ağrı yaşıyorum.,scarlet_fever
+"Başım ağrıyor ve midem bulanıyor, ışığa bakamıyorum.",migraine
+Ateş ve boğazda şiddetli ağrı yaşıyorum.,scarlet_fever
+Gözümde ve başımda aynı anda başlayan ani ağrılar yaşıyorum.,cluster
+Yüksek ateş ve kızıl nedeniyle cildimde döküntüler var.,scarlet_fever
+"Gün boyunca süren donuk, sıkıcı bir baş ağrım var.",tension
+Q ateşi belirtileri ile ateş ve halsizlik hissediyorum.,q_fever
+Burun tıkanıklığı ile birlikte baş ağrısı yaşıyorum.,sinus
+Q ateşi nedeniyle kas ağrıları ve ateş hissediyorum.,q_fever
+Sarı humma yüzünden ateşim var ve cildim sararmış.,yellow_fever
+Şiddetli baş ağrısı ve mide bulantısı hissediyorum.,migraine
+Yüksek ateş ve romatizmal ağrılar yaşıyorum.,rheumatic_fever
+Eğildiğimde başımda ağrı artıyor.,sinus
+Romatizmal ateş belirtileri ile yüksek ateş yaşıyorum.,rheumatic_fever
+Yüksek ateş ve kızıl nedeniyle cildimde döküntüler var.,scarlet_fever
+Sinüslerimde baskı ve başımda sürekli bir ağrı var.,sinus
+Başımın bir tarafında şiddetli ve ani bir ağrı yaşıyorum.,cluster
+Gece boyunca yüksek ateşle uyanıyorum.,fever
+Q ateşi yüzünden ateşim ve baş ağrım var.,q_fever
+Boynumda ve omuzlarımda gerginlik hissediyorum.,tension
+Yüzümde ve alnımda baskı ve dolgunluk hissediyorum.,sinus
+Sürekli terliyorum ve ateşim var.,fever
+Yüksek ateşim var ve yemek yemek istemiyorum.,fever
+Sarı humma nedeniyle ateş ve mide ağrısı çekiyorum.,yellow_fever
+Kızıl yüzünden yüksek ateşim var ve boğazım çok ağrıyor.,scarlet_fever
+Yüksek ateşim var ve yemek yemek istemiyorum.,fever
+Bahar alerjisi nedeniyle ateşim ve burun akıntım var.,hay_fever
+Cildimde kızarıklık ve ateş hissediyorum.,scarlet_fever
+Tifo yüzünden halsiz ve yüksek ateşliyim.,typhoid
+Yüksek ateş ve romatizmal ağrılar yaşıyorum.,rheumatic_fever
+Başımın bir tarafında şiddetli ve ani bir ağrı yaşıyorum.,cluster
+Başımın bir tarafında şiddetli ve ani bir ağrı yaşıyorum.,cluster
+Romatizmal ateş belirtileriyle eklem ağrıları ve ateş hissediyorum.,rheumatic_fever
+Sarı humma belirtileriyle yüksek ateş ve baş ağrısı yaşıyorum.,yellow_fever
+Sarı humma belirtileriyle yüksek ateş ve baş ağrısı yaşıyorum.,yellow_fever
+Boynumda ve omuzlarımda gerginlik hissediyorum.,tension
+Sarı humma nedeniyle ateş ve mide ağrısı çekiyorum.,yellow_fever
+Alerji belirtileri ile birlikte ateş yaşıyorum.,hay_fever
+Vücudum yanıyormuş gibi hissediyorum ve üşüyorum.,fever
+Başımın bir tarafında şiddetli ve ani bir ağrı yaşıyorum.,cluster
+"Çalışırken baş ağrım artıyor, sıkışma hissi yaşıyorum.",tension
+Karın bölgemde ağrı ve ateş hissediyorum.,typhoid
+Gece boyunca yüksek ateşle uyanıyorum.,fever
+Baş ağrısı ve yüksek ateş yaşıyorum.,q_fever
+Burun akıntısı ve yüzümde ağrı hissediyorum.,sinus
+Ateş ve alerji yüzünden gözlerimde kaşıntı var.,hay_fever
+"Gün boyunca süren donuk, sıkıcı bir baş ağrım var.",tension
+Burun tıkanıklığı ile birlikte baş ağrısı yaşıyorum.,sinus
+Başımın bir tarafında zonklayan bir ağrı var ve ışığa hassasiyetim var.,migraine
+Şiddetli baş ağrısı ve mide bulantısı hissediyorum.,migraine
+Başımın bir tarafında zonklayan bir ağrı var ve ışığa hassasiyetim var.,migraine
+Ateş ve alerji yüzünden gözlerimde kaşıntı var.,hay_fever
+Başımın bir tarafında şiddetli ve ani bir ağrı yaşıyorum.,cluster
+Yüksek ateş ve kas ağrıları yaşıyorum.,q_fever
+Yüksek ateş ve kızıl nedeniyle cildimde döküntüler var.,scarlet_fever
+Ateş ve alerji yüzünden gözlerimde kaşıntı var.,hay_fever
+Gece boyunca yüksek ateşle uyanıyorum.,fever
+Kızıl yüzünden yüksek ateşim var ve boğazım çok ağrıyor.,scarlet_fever
+Romatizmal ateş nedeniyle göğüs ağrısı ve yüksek ateşim var.,rheumatic_fever
+Başımın bir tarafında şiddetli ve ani bir ağrı yaşıyorum.,cluster
+Romatizmal ateş nedeniyle göğüs ağrısı ve yüksek ateşim var.,rheumatic_fever
+Yüksek ateşim var ve yemek yemek istemiyorum.,fever
+Sürekli terliyorum ve ateşim var.,fever
+Q ateşi belirtileri ile ateş ve halsizlik hissediyorum.,q_fever
+Şakaklarımda ve başımın arka kısmında basınç hissediyorum.,tension
+Vücudum yanıyormuş gibi hissediyorum ve üşüyorum.,fever
+Tifo belirtileri ile ateşim var ve kendimi çok yorgun hissediyorum.,typhoid
+Romatizmal ateş nedeniyle göğüs ağrısı ve yüksek ateşim var.,rheumatic_fever
+Eğildiğimde başımda ağrı artıyor.,sinus
+Gözlerimde ışık çakmaları görüyorum ve başım ağrıyor.,migraine
+Karın bölgemde ağrı ve ateş hissediyorum.,typhoid
+"Gün boyunca süren donuk, sıkıcı bir baş ağrım var.",tension
+"Çalışırken baş ağrım artıyor, sıkışma hissi yaşıyorum.",tension
+Baş ağrısı ve yüksek ateş yaşıyorum.,q_fever
+Göz çevremde ağrı ve göz yaşarması oluyor.,cluster
+Q ateşi belirtileri ile ateş ve halsizlik hissediyorum.,q_fever
+Ateş ve alerji yüzünden gözlerimde kaşıntı var.,hay_fever
+Romatizmal ateş nedeniyle göğüs ağrısı ve yüksek ateşim var.,rheumatic_fever
+Romatizmal ateş belirtileriyle eklem ağrıları ve ateş hissediyorum.,rheumatic_fever
+Q ateşi yüzünden ateşim ve baş ağrım var.,q_fever
+"Çalışırken baş ağrım artıyor, sıkışma hissi yaşıyorum.",tension
+Yüzümde ve alnımda baskı ve dolgunluk hissediyorum.,sinus
+Burun tıkanıklığı ile birlikte baş ağrısı yaşıyorum.,sinus
+Yüksek ateşim var ve yemek yemek istemiyorum.,fever
+"Gün boyunca süren donuk, sıkıcı bir baş ağrım var.",tension
+Tifo nedeniyle yüksek ateşim var ve karın ağrısı çekiyorum.,typhoid
+Bahar alerjisi nedeniyle ateşim ve burun akıntım var.,hay_fever
+Seslere ve ışığa karşı aşırı hassasiyet yaşıyorum.,migraine
+Q ateşi belirtileri ile ateş ve halsizlik hissediyorum.,q_fever
+Alerji belirtileri ile birlikte ateş yaşıyorum.,hay_fever
+Bahar alerjisi nedeniyle yüksek ateş ve burun tıkanıklığı yaşıyorum.,hay_fever
+Seslere ve ışığa karşı aşırı hassasiyet yaşıyorum.,migraine
+Alerjik reaksiyonlarla birlikte ateş ve hapşırma hissediyorum.,hay_fever
+Cildimde kızarıklık ve ateş hissediyorum.,scarlet_fever
+Yüksek ateş ve romatizmal ağrılar yaşıyorum.,rheumatic_fever
+"Başım ağrıyor ve midem bulanıyor, ışığa bakamıyorum.",migraine
+Kızıl yüzünden yüksek ateşim var ve boğazım çok ağrıyor.,scarlet_fever
+Q ateşi yüzünden ateşim ve baş ağrım var.,q_fever
+Şakaklarımda ve başımın arka kısmında basınç hissediyorum.,tension
+Yüksek ateş ve karın bölgesinde şiddetli ağrı yaşıyorum.,typhoid
+Romatizmal ateş nedeniyle göğüs ağrısı ve yüksek ateşim var.,rheumatic_fever
+Q ateşi yüzünden ateşim ve baş ağrım var.,q_fever
+Gözümde ve başımda aynı anda başlayan ani ağrılar yaşıyorum.,cluster
+Yüksek ateşim var ve yemek yemek istemiyorum.,fever
+Ateş ve alerji yüzünden gözlerimde kaşıntı var.,hay_fever
+Tifo nedeniyle yüksek ateşim var ve karın ağrısı çekiyorum.,typhoid
+Tifo nedeniyle yüksek ateşim var ve karın ağrısı çekiyorum.,typhoid
+Q ateşi yüzünden ateşim ve baş ağrım var.,q_fever
+Başımın bir tarafında şiddetli ve ani bir ağrı yaşıyorum.,cluster
+Cildimde kızarıklık ve ateş hissediyorum.,scarlet_fever
+Eğildiğimde başımda ağrı artıyor.,sinus
+Bahar alerjisi nedeniyle yüksek ateş ve burun tıkanıklığı yaşıyorum.,hay_fever
+Sürekli terliyorum ve ateşim var.,fever
+Gece boyunca yüksek ateşle uyanıyorum.,fever
+Yüksek ateş ve romatizmal ağrılar yaşıyorum.,rheumatic_fever
+Seslere ve ışığa karşı aşırı hassasiyet yaşıyorum.,migraine
+Yüksek ateş ve sarı humma belirtileri yaşıyorum.,yellow_fever
+Gözümde ve başımda aynı anda başlayan ani ağrılar yaşıyorum.,cluster
+Q ateşi nedeniyle kas ağrıları ve ateş hissediyorum.,q_fever
+Şakaklarımda ve başımın arka kısmında basınç hissediyorum.,tension
+Gözümün arkasında zonklayıcı bir ağrı hissediyorum.,cluster
+Q ateşi belirtileri ile ateş ve halsizlik hissediyorum.,q_fever
+Ateş ve alerji yüzünden gözlerimde kaşıntı var.,hay_fever
+Sürekli terliyorum ve ateşim var.,fever
+Q ateşi yüzünden ateşim ve baş ağrım var.,q_fever
+Q ateşi yüzünden ateşim ve baş ağrım var.,q_fever
+Şakaklarımda ve başımın arka kısmında basınç hissediyorum.,tension
+Gözümün arkasında zonklayıcı bir ağrı hissediyorum.,cluster
+Romatizmal ateş nedeniyle göğüs ağrısı ve yüksek ateşim var.,rheumatic_fever
+Şiddetli baş ağrısı ve mide bulantısı hissediyorum.,migraine
+Başımın bir tarafında zonklayan bir ağrı var ve ışığa hassasiyetim var.,migraine
+Karaciğer ağrısı ve yüksek ateş hissediyorum.,yellow_fever
+Q ateşi belirtileri ile ateş ve halsizlik hissediyorum.,q_fever
+Ateşle birlikte kas ve eklem ağrıları çekiyorum.,fever
+Eğildiğimde başımda ağrı artıyor.,sinus
+Baş ağrısı ve yüksek ateş yaşıyorum.,q_fever
+Başımın bir tarafında zonklayan bir ağrı var ve ışığa hassasiyetim var.,migraine
+Alerji belirtileri ile birlikte ateş yaşıyorum.,hay_fever
+Boynumda ve omuzlarımda gerginlik hissediyorum.,tension
+Q ateşi yüzünden ateşim ve baş ağrım var.,q_fever
+"Başımda sıkışma hissi var, özellikle alın ve şakaklarda.",tension
+Vücudum yanıyormuş gibi hissediyorum ve üşüyorum.,fever
+Gözümün arkasında zonklayıcı bir ağrı hissediyorum.,cluster
+Boynumda ve omuzlarımda gerginlik hissediyorum.,tension
+Gözümde ve başımda aynı anda başlayan ani ağrılar yaşıyorum.,cluster
+Sarı humma nedeniyle ateş ve mide ağrısı çekiyorum.,yellow_fever
+Sinüslerimde baskı ve başımda sürekli bir ağrı var.,sinus
+"Gün boyunca süren donuk, sıkıcı bir baş ağrım var.",tension
+Sarı humma belirtileriyle yüksek ateş ve baş ağrısı yaşıyorum.,yellow_fever
+Bahar alerjisi nedeniyle ateşim ve burun akıntım var.,hay_fever
+Baş ağrısı ve yüksek ateş yaşıyorum.,q_fever
+Yüksek ateş ve romatizmal ağrılar yaşıyorum.,rheumatic_fever
+Karın bölgemde ağrı ve ateş hissediyorum.,typhoid
+"Gün boyunca süren donuk, sıkıcı bir baş ağrım var.",tension
+Boynumda ve omuzlarımda gerginlik hissediyorum.,tension
+Şiddetli baş ağrısı ve mide bulantısı hissediyorum.,migraine
+Başımın bir tarafında şiddetli ve ani bir ağrı yaşıyorum.,cluster
+Yüzümde ve alnımda baskı ve dolgunluk hissediyorum.,sinus
+Başımın bir tarafında zonklayan bir ağrı var ve ışığa hassasiyetim var.,migraine
+Vücudum yanıyormuş gibi hissediyorum ve üşüyorum.,fever
+Kızıl yüzünden yüksek ateşim var ve boğazım çok ağrıyor.,scarlet_fever
+Sarı humma nedeniyle ateş ve mide ağrısı çekiyorum.,yellow_fever
+Sarı humma yüzünden ateşim var ve cildim sararmış.,yellow_fever
+Gözümde ve başımda aynı anda başlayan ani ağrılar yaşıyorum.,cluster
+Yüzümde ve alnımda baskı ve dolgunluk hissediyorum.,sinus
+Romatizmal ateş belirtileriyle eklem ağrıları ve ateş hissediyorum.,rheumatic_fever
+"Çalışırken baş ağrım artıyor, sıkışma hissi yaşıyorum.",tension
+Sarı humma yüzünden ateşim var ve cildim sararmış.,yellow_fever
+Ateşle birlikte kas ve eklem ağrıları çekiyorum.,fever
+Romatizmal ateş belirtileri ile yüksek ateş yaşıyorum.,rheumatic_fever
+Gözümde ve başımda aynı anda başlayan ani ağrılar yaşıyorum.,cluster
+Gözümde ve başımda aynı anda başlayan ani ağrılar yaşıyorum.,cluster
+Kızıl yüzünden yüksek ateşim var ve boğazım çok ağrıyor.,scarlet_fever
+Q ateşi nedeniyle kas ağrıları ve ateş hissediyorum.,q_fever
+Sinüslerimde baskı ve başımda sürekli bir ağrı var.,sinus
+Romatizmal ateş nedeniyle göğüs ağrısı ve yüksek ateşim var.,rheumatic_fever
+Gözümde ve başımda aynı anda başlayan ani ağrılar yaşıyorum.,cluster
+Tifo nedeniyle yüksek ateşim var ve karın ağrısı çekiyorum.,typhoid
+Sarı humma nedeniyle ateş ve mide ağrısı çekiyorum.,yellow_fever
+Yüzümde ve alnımda baskı ve dolgunluk hissediyorum.,sinus
+Tifo nedeniyle yüksek ateşim var ve karın ağrısı çekiyorum.,typhoid
+Tifo nedeniyle yüksek ateşim var ve karın ağrısı çekiyorum.,typhoid
+"Başımda sıkışma hissi var, özellikle alın ve şakaklarda.",tension
+Sarı humma yüzünden ateşim var ve cildim sararmış.,yellow_fever
+Şiddetli baş ağrısı ve mide bulantısı hissediyorum.,migraine
+Yüksek ateş ve kas ağrıları yaşıyorum.,q_fever
+Yüksek ateşim var ve yemek yemek istemiyorum.,fever
+Yüksek ateş ve kızıl nedeniyle cildimde döküntüler var.,scarlet_fever
+Cildimde kızarıklık ve ateş hissediyorum.,scarlet_fever
+"Başımda sıkışma hissi var, özellikle alın ve şakaklarda.",tension
+Vücudum yanıyormuş gibi hissediyorum ve üşüyorum.,fever
+Gözümde ve başımda aynı anda başlayan ani ağrılar yaşıyorum.,cluster
+Yüksek ateş ve sarı humma belirtileri yaşıyorum.,yellow_fever
+Ateşle birlikte kas ve eklem ağrıları çekiyorum.,fever
+Başımın bir tarafında şiddetli ve ani bir ağrı yaşıyorum.,cluster
+Tifo yüzünden halsiz ve yüksek ateşliyim.,typhoid
+"Gün boyunca süren donuk, sıkıcı bir baş ağrım var.",tension
+Boynumda ve omuzlarımda gerginlik hissediyorum.,tension
+Sarı humma yüzünden ateşim var ve cildim sararmış.,yellow_fever
+Vücudum yanıyormuş gibi hissediyorum ve üşüyorum.,fever
+Karaciğer ağrısı ve yüksek ateş hissediyorum.,yellow_fever
+Gözlerimde ışık çakmaları görüyorum ve başım ağrıyor.,migraine
+"Başım ağrıyor ve midem bulanıyor, ışığa bakamıyorum.",migraine
+Başımın bir tarafında şiddetli ve ani bir ağrı yaşıyorum.,cluster
+Sarı humma nedeniyle ateş ve mide ağrısı çekiyorum.,yellow_fever
+Kızıl yüzünden yüksek ateşim var ve boğazım çok ağrıyor.,scarlet_fever
+Bahar alerjisi nedeniyle yüksek ateş ve burun tıkanıklığı yaşıyorum.,hay_fever
+Karın bölgemde ağrı ve ateş hissediyorum.,typhoid
+Tifo belirtileri ile ateşim var ve kendimi çok yorgun hissediyorum.,typhoid
+Cildimde kızarıklık ve ateş hissediyorum.,scarlet_fever
+Gece boyunca yüksek ateşle uyanıyorum.,fever
+Gece boyunca yüksek ateşle uyanıyorum.,fever
+Tifo belirtileri ile ateşim var ve kendimi çok yorgun hissediyorum.,typhoid
+Alerjik reaksiyonlarla birlikte ateş ve hapşırma hissediyorum.,hay_fever
+Bahar alerjisi nedeniyle ateşim ve burun akıntım var.,hay_fever
+"Başımda sıkışma hissi var, özellikle alın ve şakaklarda.",tension
+Burun akıntısı ve yüzümde ağrı hissediyorum.,sinus
+Alerjik reaksiyonlarla birlikte ateş ve hapşırma hissediyorum.,hay_fever
+Romatizmal ateş belirtileriyle eklem ağrıları ve ateş hissediyorum.,rheumatic_fever
+Gözümün arkasında zonklayıcı bir ağrı hissediyorum.,cluster
+Gece boyunca yüksek ateşle uyanıyorum.,fever
+Karın bölgemde ağrı ve ateş hissediyorum.,typhoid
+Alerjik reaksiyonlarla birlikte ateş ve hapşırma hissediyorum.,hay_fever
+Burun tıkanıklığı ile birlikte baş ağrısı yaşıyorum.,sinus
+Yüksek ateş ve kas ağrıları yaşıyorum.,q_fever
+Sarı humma yüzünden ateşim var ve cildim sararmış.,yellow_fever
+"Başımda sıkışma hissi var, özellikle alın ve şakaklarda.",tension
+Eğildiğimde başımda ağrı artıyor.,sinus
+Cildimde kızarıklık ve ateş hissediyorum.,scarlet_fever
+Tifo yüzünden halsiz ve yüksek ateşliyim.,typhoid
+Kızıl belirtileriyle ateşim ve boğaz ağrım var.,scarlet_fever
+Baş ağrısı ve yüksek ateş yaşıyorum.,q_fever
+Şiddetli baş ağrısı ve mide bulantısı hissediyorum.,migraine
+Gece boyunca yüksek ateşle uyanıyorum.,fever
+Burun akıntısı ve yüzümde ağrı hissediyorum.,sinus
+Şiddetli baş ağrısı ve mide bulantısı hissediyorum.,migraine
+Şakaklarımda ve başımın arka kısmında basınç hissediyorum.,tension
+Gözümün etrafında yoğun bir ağrı hissediyorum.,cluster
+Gözlerimde ışık çakmaları görüyorum ve başım ağrıyor.,migraine
+Tifo yüzünden halsiz ve yüksek ateşliyim.,typhoid
+Tifo nedeniyle yüksek ateşim var ve karın ağrısı çekiyorum.,typhoid
+Gözümün etrafında yoğun bir ağrı hissediyorum.,cluster
+Burun akıntısı ve yüzümde ağrı hissediyorum.,sinus
+Burun tıkanıklığı ile birlikte baş ağrısı yaşıyorum.,sinus
+Baş ağrısı ve yüksek ateş yaşıyorum.,q_fever
+Eğildiğimde başımda ağrı artıyor.,sinus
+Bahar alerjisi nedeniyle yüksek ateş ve burun tıkanıklığı yaşıyorum.,hay_fever
+Romatizmal ateş belirtileriyle eklem ağrıları ve ateş hissediyorum.,rheumatic_fever
+Gözümde ve başımda aynı anda başlayan ani ağrılar yaşıyorum.,cluster
+Ateş ve boğazda şiddetli ağrı yaşıyorum.,scarlet_fever
+Şakaklarımda ve başımın arka kısmında basınç hissediyorum.,tension
+Ateş ve boğazda şiddetli ağrı yaşıyorum.,scarlet_fever
+Vücudum yanıyormuş gibi hissediyorum ve üşüyorum.,fever
+Kızıl yüzünden yüksek ateşim var ve boğazım çok ağrıyor.,scarlet_fever
+"Başım ağrıyor ve midem bulanıyor, ışığa bakamıyorum.",migraine
+Sarı humma yüzünden ateşim var ve cildim sararmış.,yellow_fever
+Q ateşi yüzünden ateşim ve baş ağrım var.,q_fever
+Alerjik reaksiyonlarla birlikte ateş ve hapşırma hissediyorum.,hay_fever
+Yüksek ateş ve sarı humma belirtileri yaşıyorum.,yellow_fever
+Ateşle birlikte kas ve eklem ağrıları çekiyorum.,fever
+Şakaklarımda ve başımın arka kısmında basınç hissediyorum.,tension
+Q ateşi yüzünden ateşim ve baş ağrım var.,q_fever
+"Gün boyunca süren donuk, sıkıcı bir baş ağrım var.",tension
+Yüksek ateş ve kızıl nedeniyle cildimde döküntüler var.,scarlet_fever
+Şiddetli baş ağrısı ve mide bulantısı hissediyorum.,migraine
+Tifo nedeniyle yüksek ateşim var ve karın ağrısı çekiyorum.,typhoid
+Yüzümde ve alnımda baskı ve dolgunluk hissediyorum.,sinus
+Gece boyunca yüksek ateşle uyanıyorum.,fever
+Ateş ve boğazda şiddetli ağrı yaşıyorum.,scarlet_fever
+Yüksek ateş ve romatizmal ağrılar yaşıyorum.,rheumatic_fever
+Boynumda ve omuzlarımda gerginlik hissediyorum.,tension
+Gece boyunca yüksek ateşle uyanıyorum.,fever
+Yüksek ateş ve sarı humma belirtileri yaşıyorum.,yellow_fever
+Ateş ve boğazda şiddetli ağrı yaşıyorum.,scarlet_fever
+Q ateşi nedeniyle kas ağrıları ve ateş hissediyorum.,q_fever
+Göz çevremde ağrı ve göz yaşarması oluyor.,cluster
+Gözlerimde ışık çakmaları görüyorum ve başım ağrıyor.,migraine
+Alerji belirtileri ile birlikte ateş yaşıyorum.,hay_fever
+Baş ağrısı ve yüksek ateş yaşıyorum.,q_fever
+Yüksek ateş ve kızıl nedeniyle cildimde döküntüler var.,scarlet_fever
+Sarı humma nedeniyle ateş ve mide ağrısı çekiyorum.,yellow_fever
+Yüksek ateş ve karın bölgesinde şiddetli ağrı yaşıyorum.,typhoid
+Romatizmal ateş nedeniyle göğüs ağrısı ve yüksek ateşim var.,rheumatic_fever
+Sürekli terliyorum ve ateşim var.,fever
+Sarı humma belirtileriyle yüksek ateş ve baş ağrısı yaşıyorum.,yellow_fever
+Sinüslerimde baskı ve başımda sürekli bir ağrı var.,sinus
+Kızıl belirtileriyle ateşim ve boğaz ağrım var.,scarlet_fever
+Cildimde kızarıklık ve ateş hissediyorum.,scarlet_fever
+Baş ağrısı ve yüksek ateş yaşıyorum.,q_fever
+Bahar alerjisi nedeniyle yüksek ateş ve burun tıkanıklığı yaşıyorum.,hay_fever
+Tifo belirtileri ile ateşim var ve kendimi çok yorgun hissediyorum.,typhoid
+Tifo nedeniyle yüksek ateşim var ve karın ağrısı çekiyorum.,typhoid
+Yüksek ateş ve kas ağrıları yaşıyorum.,q_fever
+Gözümün etrafında yoğun bir ağrı hissediyorum.,cluster
+Alerji belirtileri ile birlikte ateş yaşıyorum.,hay_fever
+Tifo belirtileri ile ateşim var ve kendimi çok yorgun hissediyorum.,typhoid
+Cildimde kızarıklık ve ateş hissediyorum.,scarlet_fever
+Romatizmal ateş belirtileriyle eklem ağrıları ve ateş hissediyorum.,rheumatic_fever
+Karın bölgemde ağrı ve ateş hissediyorum.,typhoid
+Romatizmal ateş belirtileri ile yüksek ateş yaşıyorum.,rheumatic_fever
+Sarı humma nedeniyle ateş ve mide ağrısı çekiyorum.,yellow_fever
+Romatizmal ateş belirtileri ile yüksek ateş yaşıyorum.,rheumatic_fever
+Gözümün etrafında yoğun bir ağrı hissediyorum.,cluster
+Gözümün etrafında yoğun bir ağrı hissediyorum.,cluster
+Gözlerimde ışık çakmaları görüyorum ve başım ağrıyor.,migraine
+"Başım ağrıyor ve midem bulanıyor, ışığa bakamıyorum.",migraine
+Yüzümde ve alnımda baskı ve dolgunluk hissediyorum.,sinus
+Yüksek ateş ve romatizmal ağrılar yaşıyorum.,rheumatic_fever
+Gözümün arkasında zonklayıcı bir ağrı hissediyorum.,cluster
+Yüksek ateşim var ve yemek yemek istemiyorum.,fever
+Başımın bir tarafında zonklayan bir ağrı var ve ışığa hassasiyetim var.,migraine
+Eklem bölgelerinde ağrı ve ateş hissediyorum.,rheumatic_fever
+Tifo yüzünden halsiz ve yüksek ateşliyim.,typhoid
+"Başımda sıkışma hissi var, özellikle alın ve şakaklarda.",tension
+"Başımda sıkışma hissi var, özellikle alın ve şakaklarda.",tension
+Romatizmal ateş belirtileriyle eklem ağrıları ve ateş hissediyorum.,rheumatic_fever
+Eklem bölgelerinde ağrı ve ateş hissediyorum.,rheumatic_fever
+Yüksek ateş ve romatizmal ağrılar yaşıyorum.,rheumatic_fever
+Eğildiğimde başımda ağrı artıyor.,sinus
+Gözümde ve başımda aynı anda başlayan ani ağrılar yaşıyorum.,cluster
+Gözlerimde ışık çakmaları görüyorum ve başım ağrıyor.,migraine
+Eklem bölgelerinde ağrı ve ateş hissediyorum.,rheumatic_fever
+Yüksek ateş ve romatizmal ağrılar yaşıyorum.,rheumatic_fever
+Q ateşi nedeniyle kas ağrıları ve ateş hissediyorum.,q_fever
+Kızıl belirtileriyle ateşim ve boğaz ağrım var.,scarlet_fever
+Yüksek ateş ve sarı humma belirtileri yaşıyorum.,yellow_fever
+Şakaklarımda ve başımın arka kısmında basınç hissediyorum.,tension
+Ateş ve alerji yüzünden gözlerimde kaşıntı var.,hay_fever
+Gözümün arkasında zonklayıcı bir ağrı hissediyorum.,cluster
+Eğildiğimde başımda ağrı artıyor.,sinus
+Q ateşi nedeniyle kas ağrıları ve ateş hissediyorum.,q_fever
+Eğildiğimde başımda ağrı artıyor.,sinus
+Yüksek ateş ve kızıl nedeniyle cildimde döküntüler var.,scarlet_fever
+Ateş ve alerji yüzünden gözlerimde kaşıntı var.,hay_fever
+Cildimde kızarıklık ve ateş hissediyorum.,scarlet_fever
+Q ateşi belirtileri ile ateş ve halsizlik hissediyorum.,q_fever
+Ateş ve boğazda şiddetli ağrı yaşıyorum.,scarlet_fever
+Yüzümde ve alnımda baskı ve dolgunluk hissediyorum.,sinus
+Kızıl belirtileriyle ateşim ve boğaz ağrım var.,scarlet_fever
+Tifo belirtileri ile ateşim var ve kendimi çok yorgun hissediyorum.,typhoid
+Sarı humma yüzünden ateşim var ve cildim sararmış.,yellow_fever
+Şiddetli baş ağrısı ve mide bulantısı hissediyorum.,migraine
+Karın bölgemde ağrı ve ateş hissediyorum.,typhoid
+Cildimde kızarıklık ve ateş hissediyorum.,scarlet_fever
+Yüksek ateş ve romatizmal ağrılar yaşıyorum.,rheumatic_fever
+Tifo yüzünden halsiz ve yüksek ateşliyim.,typhoid
+Gözümün etrafında yoğun bir ağrı hissediyorum.,cluster
+Vücudum yanıyormuş gibi hissediyorum ve üşüyorum.,fever
+Bahar alerjisi nedeniyle ateşim ve burun akıntım var.,hay_fever
+Alerjik reaksiyonlarla birlikte ateş ve hapşırma hissediyorum.,hay_fever
+Tifo nedeniyle yüksek ateşim var ve karın ağrısı çekiyorum.,typhoid
+Yüksek ateş ve karın bölgesinde şiddetli ağrı yaşıyorum.,typhoid
+Gözümde ve başımda aynı anda başlayan ani ağrılar yaşıyorum.,cluster
+Ateş ve boğazda şiddetli ağrı yaşıyorum.,scarlet_fever
+Sürekli terliyorum ve ateşim var.,fever
+Gözümün arkasında zonklayıcı bir ağrı hissediyorum.,cluster
+Alerjik reaksiyonlarla birlikte ateş ve hapşırma hissediyorum.,hay_fever
+Başımın bir tarafında şiddetli ve ani bir ağrı yaşıyorum.,cluster
+Gözümün arkasında zonklayıcı bir ağrı hissediyorum.,cluster
+Cildimde kızarıklık ve ateş hissediyorum.,scarlet_fever
+Ateş ve alerji yüzünden gözlerimde kaşıntı var.,hay_fever
+Karaciğer ağrısı ve yüksek ateş hissediyorum.,yellow_fever
+Sarı humma yüzünden ateşim var ve cildim sararmış.,yellow_fever
+Romatizmal ateş belirtileriyle eklem ağrıları ve ateş hissediyorum.,rheumatic_fever
+Q ateşi nedeniyle kas ağrıları ve ateş hissediyorum.,q_fever
+Yüksek ateşim var ve yemek yemek istemiyorum.,fever
+"Başımda sıkışma hissi var, özellikle alın ve şakaklarda.",tension
+Ateş ve alerji yüzünden gözlerimde kaşıntı var.,hay_fever
+Tifo yüzünden halsiz ve yüksek ateşliyim.,typhoid
+Alerjik reaksiyonlarla birlikte ateş ve hapşırma hissediyorum.,hay_fever
+Tifo belirtileri ile ateşim var ve kendimi çok yorgun hissediyorum.,typhoid
+Romatizmal ateş belirtileri ile yüksek ateş yaşıyorum.,rheumatic_fever
+Burun tıkanıklığı ile birlikte baş ağrısı yaşıyorum.,sinus
+Başımın bir tarafında zonklayan bir ağrı var ve ışığa hassasiyetim var.,migraine
+Şiddetli baş ağrısı ve mide bulantısı hissediyorum.,migraine
+Bahar alerjisi nedeniyle yüksek ateş ve burun tıkanıklığı yaşıyorum.,hay_fever
+Yüksek ateş ve kızıl nedeniyle cildimde döküntüler var.,scarlet_fever
+Ateş ve boğazda şiddetli ağrı yaşıyorum.,scarlet_fever
+Sarı humma nedeniyle ateş ve mide ağrısı çekiyorum.,yellow_fever
+Tifo yüzünden halsiz ve yüksek ateşliyim.,typhoid
+Karın bölgemde ağrı ve ateş hissediyorum.,typhoid
+Romatizmal ateş belirtileri ile yüksek ateş yaşıyorum.,rheumatic_fever
+Romatizmal ateş belirtileriyle eklem ağrıları ve ateş hissediyorum.,rheumatic_fever
+Başımın bir tarafında şiddetli ve ani bir ağrı yaşıyorum.,cluster
+Cildimde kızarıklık ve ateş hissediyorum.,scarlet_fever
+Sürekli terliyorum ve ateşim var.,fever
+Tifo nedeniyle yüksek ateşim var ve karın ağrısı çekiyorum.,typhoid
+Gözlerimde ışık çakmaları görüyorum ve başım ağrıyor.,migraine
+Q ateşi belirtileri ile ateş ve halsizlik hissediyorum.,q_fever
+Şiddetli baş ağrısı ve mide bulantısı hissediyorum.,migraine
+Alerjik reaksiyonlarla birlikte ateş ve hapşırma hissediyorum.,hay_fever
+Yüksek ateş ve romatizmal ağrılar yaşıyorum.,rheumatic_fever
+Gözlerimde ışık çakmaları görüyorum ve başım ağrıyor.,migraine
+Karın bölgemde ağrı ve ateş hissediyorum.,typhoid
+Boynumda ve omuzlarımda gerginlik hissediyorum.,tension
+Kızıl belirtileriyle ateşim ve boğaz ağrım var.,scarlet_fever
+Vücudum yanıyormuş gibi hissediyorum ve üşüyorum.,fever
+Şiddetli baş ağrısı ve mide bulantısı hissediyorum.,migraine
+Gözümün etrafında yoğun bir ağrı hissediyorum.,cluster
+Yüksek ateş ve sarı humma belirtileri yaşıyorum.,yellow_fever
+Q ateşi belirtileri ile ateş ve halsizlik hissediyorum.,q_fever
+Gece boyunca yüksek ateşle uyanıyorum.,fever
+Ateş ve alerji yüzünden gözlerimde kaşıntı var.,hay_fever
+"Başımda sıkışma hissi var, özellikle alın ve şakaklarda.",tension
+Gözlerimde ışık çakmaları görüyorum ve başım ağrıyor.,migraine
+Romatizmal ateş belirtileri ile yüksek ateş yaşıyorum.,rheumatic_fever
+Burun akıntısı ve yüzümde ağrı hissediyorum.,sinus
+Şiddetli baş ağrısı ve mide bulantısı hissediyorum.,migraine
+Romatizmal ateş belirtileri ile yüksek ateş yaşıyorum.,rheumatic_fever
+Sarı humma belirtileriyle yüksek ateş ve baş ağrısı yaşıyorum.,yellow_fever
+Vücudum yanıyormuş gibi hissediyorum ve üşüyorum.,fever
+Başımın bir tarafında şiddetli ve ani bir ağrı yaşıyorum.,cluster
+Q ateşi nedeniyle kas ağrıları ve ateş hissediyorum.,q_fever
+Göz çevremde ağrı ve göz yaşarması oluyor.,cluster
+Yüksek ateş ve karın bölgesinde şiddetli ağrı yaşıyorum.,typhoid
+Vücudum yanıyormuş gibi hissediyorum ve üşüyorum.,fever
+Romatizmal ateş belirtileriyle eklem ağrıları ve ateş hissediyorum.,rheumatic_fever
+Alerjik reaksiyonlarla birlikte ateş ve hapşırma hissediyorum.,hay_fever
+Yüksek ateş ve romatizmal ağrılar yaşıyorum.,rheumatic_fever
+Cildimde kızarıklık ve ateş hissediyorum.,scarlet_fever
+Romatizmal ateş belirtileriyle eklem ağrıları ve ateş hissediyorum.,rheumatic_fever
+Gözümün arkasında zonklayıcı bir ağrı hissediyorum.,cluster
+Göz çevremde ağrı ve göz yaşarması oluyor.,cluster
+Yüksek ateş ve kas ağrıları yaşıyorum.,q_fever
+Gece boyunca yüksek ateşle uyanıyorum.,fever
+Ateş ve boğazda şiddetli ağrı yaşıyorum.,scarlet_fever
+Yüzümde ve alnımda baskı ve dolgunluk hissediyorum.,sinus
+"Gün boyunca süren donuk, sıkıcı bir baş ağrım var.",tension
+Gözümün etrafında yoğun bir ağrı hissediyorum.,cluster
+Yüksek ateş ve romatizmal ağrılar yaşıyorum.,rheumatic_fever
+"Çalışırken baş ağrım artıyor, sıkışma hissi yaşıyorum.",tension
+Sarı humma yüzünden ateşim var ve cildim sararmış.,yellow_fever
+Gözümde ve başımda aynı anda başlayan ani ağrılar yaşıyorum.,cluster
+Sinüslerimde baskı ve başımda sürekli bir ağrı var.,sinus
+Gözümün arkasında zonklayıcı bir ağrı hissediyorum.,cluster
+Başımın bir tarafında şiddetli ve ani bir ağrı yaşıyorum.,cluster
+Romatizmal ateş belirtileriyle eklem ağrıları ve ateş hissediyorum.,rheumatic_fever
+Vücudum yanıyormuş gibi hissediyorum ve üşüyorum.,fever
+Q ateşi nedeniyle kas ağrıları ve ateş hissediyorum.,q_fever
+Göz çevremde ağrı ve göz yaşarması oluyor.,cluster
+Gözümde ve başımda aynı anda başlayan ani ağrılar yaşıyorum.,cluster
+Romatizmal ateş belirtileriyle eklem ağrıları ve ateş hissediyorum.,rheumatic_fever
+Vücudum yanıyormuş gibi hissediyorum ve üşüyorum.,fever
+Vücudum yanıyormuş gibi hissediyorum ve üşüyorum.,fever
+Karaciğer ağrısı ve yüksek ateş hissediyorum.,yellow_fever
+Ateş ve alerji yüzünden gözlerimde kaşıntı var.,hay_fever
+Bahar alerjisi nedeniyle ateşim ve burun akıntım var.,hay_fever
+Karın bölgemde ağrı ve ateş hissediyorum.,typhoid
+Tifo yüzünden halsiz ve yüksek ateşliyim.,typhoid
+Yüksek ateş ve romatizmal ağrılar yaşıyorum.,rheumatic_fever
+"Çalışırken baş ağrım artıyor, sıkışma hissi yaşıyorum.",tension
+Gece boyunca yüksek ateşle uyanıyorum.,fever
+Şakaklarımda ve başımın arka kısmında basınç hissediyorum.,tension
+Yüksek ateş ve kızıl nedeniyle cildimde döküntüler var.,scarlet_fever
+Alerjik reaksiyonlarla birlikte ateş ve hapşırma hissediyorum.,hay_fever
+Baş ağrısı ve yüksek ateş yaşıyorum.,q_fever
+Romatizmal ateş belirtileri ile yüksek ateş yaşıyorum.,rheumatic_fever
+Kızıl belirtileriyle ateşim ve boğaz ağrım var.,scarlet_fever
+Boynumda ve omuzlarımda gerginlik hissediyorum.,tension
+Eklem bölgelerinde ağrı ve ateş hissediyorum.,rheumatic_fever
+"Başım ağrıyor ve midem bulanıyor, ışığa bakamıyorum.",migraine
+Başımın bir tarafında şiddetli ve ani bir ağrı yaşıyorum.,cluster
+Sarı humma nedeniyle ateş ve mide ağrısı çekiyorum.,yellow_fever
+Baş ağrısı ve yüksek ateş yaşıyorum.,q_fever
+Başımın bir tarafında şiddetli ve ani bir ağrı yaşıyorum.,cluster
+Sarı humma belirtileriyle yüksek ateş ve baş ağrısı yaşıyorum.,yellow_fever
+Q ateşi nedeniyle kas ağrıları ve ateş hissediyorum.,q_fever
+Şiddetli baş ağrısı ve mide bulantısı hissediyorum.,migraine
+Q ateşi yüzünden ateşim ve baş ağrım var.,q_fever
+Baş ağrısı ve yüksek ateş yaşıyorum.,q_fever
+Kızıl belirtileriyle ateşim ve boğaz ağrım var.,scarlet_fever
+Tifo belirtileri ile ateşim var ve kendimi çok yorgun hissediyorum.,typhoid
+Romatizmal ateş belirtileri ile yüksek ateş yaşıyorum.,rheumatic_fever
+Yüksek ateş ve sarı humma belirtileri yaşıyorum.,yellow_fever
+Alerji belirtileri ile birlikte ateş yaşıyorum.,hay_fever
+Eğildiğimde başımda ağrı artıyor.,sinus
+Gece boyunca yüksek ateşle uyanıyorum.,fever
+Cildimde kızarıklık ve ateş hissediyorum.,scarlet_fever
+Başımın bir tarafında şiddetli ve ani bir ağrı yaşıyorum.,cluster
+Şiddetli baş ağrısı ve mide bulantısı hissediyorum.,migraine
+Cildimde kızarıklık ve ateş hissediyorum.,scarlet_fever
+Sarı humma nedeniyle ateş ve mide ağrısı çekiyorum.,yellow_fever
+Ateş ve boğazda şiddetli ağrı yaşıyorum.,scarlet_fever
+Gözümün etrafında yoğun bir ağrı hissediyorum.,cluster
+"Gün boyunca süren donuk, sıkıcı bir baş ağrım var.",tension
+Ateş ve alerji yüzünden gözlerimde kaşıntı var.,hay_fever
+Karaciğer ağrısı ve yüksek ateş hissediyorum.,yellow_fever
+Yüzümde ve alnımda baskı ve dolgunluk hissediyorum.,sinus
+Göz çevremde ağrı ve göz yaşarması oluyor.,cluster
+Romatizmal ateş belirtileri ile yüksek ateş yaşıyorum.,rheumatic_fever
+Alerji belirtileri ile birlikte ateş yaşıyorum.,hay_fever
+Karaciğer ağrısı ve yüksek ateş hissediyorum.,yellow_fever
+Ateş ve boğazda şiddetli ağrı yaşıyorum.,scarlet_fever
+Gözümün etrafında yoğun bir ağrı hissediyorum.,cluster
+Ateşle birlikte kas ve eklem ağrıları çekiyorum.,fever
+Baş ağrısı ve yüksek ateş yaşıyorum.,q_fever
+Gözlerimde ışık çakmaları görüyorum ve başım ağrıyor.,migraine
+Ateş ve alerji yüzünden gözlerimde kaşıntı var.,hay_fever
+Karaciğer ağrısı ve yüksek ateş hissediyorum.,yellow_fever
+"Gün boyunca süren donuk, sıkıcı bir baş ağrım var.",tension
+Q ateşi yüzünden ateşim ve baş ağrım var.,q_fever
+Sarı humma belirtileriyle yüksek ateş ve baş ağrısı yaşıyorum.,yellow_fever
+Cildimde kızarıklık ve ateş hissediyorum.,scarlet_fever
+"Çalışırken baş ağrım artıyor, sıkışma hissi yaşıyorum.",tension
+Burun akıntısı ve yüzümde ağrı hissediyorum.,sinus
+Şakaklarımda ve başımın arka kısmında basınç hissediyorum.,tension
+Boynumda ve omuzlarımda gerginlik hissediyorum.,tension
+Romatizmal ateş belirtileriyle eklem ağrıları ve ateş hissediyorum.,rheumatic_fever
+Karın bölgemde ağrı ve ateş hissediyorum.,typhoid
+Ateşle birlikte kas ve eklem ağrıları çekiyorum.,fever
+Tifo yüzünden halsiz ve yüksek ateşliyim.,typhoid
+Tifo yüzünden halsiz ve yüksek ateşliyim.,typhoid
+Sarı humma nedeniyle ateş ve mide ağrısı çekiyorum.,yellow_fever
+"Başımda sıkışma hissi var, özellikle alın ve şakaklarda.",tension
+Sarı humma belirtileriyle yüksek ateş ve baş ağrısı yaşıyorum.,yellow_fever
+Baş ağrısı ve yüksek ateş yaşıyorum.,q_fever
+Yüksek ateşim var ve yemek yemek istemiyorum.,fever
+"Başımda sıkışma hissi var, özellikle alın ve şakaklarda.",tension
+Alerji belirtileri ile birlikte ateş yaşıyorum.,hay_fever
+Q ateşi belirtileri ile ateş ve halsizlik hissediyorum.,q_fever
+Tifo yüzünden halsiz ve yüksek ateşliyim.,typhoid
+Tifo yüzünden halsiz ve yüksek ateşliyim.,typhoid
+Baş ağrısı ve yüksek ateş yaşıyorum.,q_fever
+Vücudum yanıyormuş gibi hissediyorum ve üşüyorum.,fever
+"Gün boyunca süren donuk, sıkıcı bir baş ağrım var.",tension
+Tifo nedeniyle yüksek ateşim var ve karın ağrısı çekiyorum.,typhoid
+Karaciğer ağrısı ve yüksek ateş hissediyorum.,yellow_fever
+Sinüslerimde baskı ve başımda sürekli bir ağrı var.,sinus
+Karın bölgemde ağrı ve ateş hissediyorum.,typhoid
+Başımın bir tarafında şiddetli ve ani bir ağrı yaşıyorum.,cluster
+Alerjik reaksiyonlarla birlikte ateş ve hapşırma hissediyorum.,hay_fever
+Romatizmal ateş nedeniyle göğüs ağrısı ve yüksek ateşim var.,rheumatic_fever
+Sürekli terliyorum ve ateşim var.,fever
+Yüksek ateş ve kızıl nedeniyle cildimde döküntüler var.,scarlet_fever
+Tifo belirtileri ile ateşim var ve kendimi çok yorgun hissediyorum.,typhoid
+Eğildiğimde başımda ağrı artıyor.,sinus
+Burun tıkanıklığı ile birlikte baş ağrısı yaşıyorum.,sinus
+Sarı humma yüzünden ateşim var ve cildim sararmış.,yellow_fever
+Seslere ve ışığa karşı aşırı hassasiyet yaşıyorum.,migraine
+Romatizmal ateş belirtileri ile yüksek ateş yaşıyorum.,rheumatic_fever
+Karaciğer ağrısı ve yüksek ateş hissediyorum.,yellow_fever
+Gözlerimde ışık çakmaları görüyorum ve başım ağrıyor.,migraine
+"Gün boyunca süren donuk, sıkıcı bir baş ağrım var.",tension
+Yüksek ateşim var ve yemek yemek istemiyorum.,fever
+Ateşle birlikte kas ve eklem ağrıları çekiyorum.,fever
+Sinüslerimde baskı ve başımda sürekli bir ağrı var.,sinus
+Gözümde ve başımda aynı anda başlayan ani ağrılar yaşıyorum.,cluster
+Romatizmal ateş belirtileri ile yüksek ateş yaşıyorum.,rheumatic_fever
+Sarı humma nedeniyle ateş ve mide ağrısı çekiyorum.,yellow_fever
+Göz çevremde ağrı ve göz yaşarması oluyor.,cluster
+Q ateşi nedeniyle kas ağrıları ve ateş hissediyorum.,q_fever
+Romatizmal ateş belirtileri ile yüksek ateş yaşıyorum.,rheumatic_fever
+Tifo nedeniyle yüksek ateşim var ve karın ağrısı çekiyorum.,typhoid
+Boynumda ve omuzlarımda gerginlik hissediyorum.,tension
+Gece boyunca yüksek ateşle uyanıyorum.,fever
+Burun tıkanıklığı ile birlikte baş ağrısı yaşıyorum.,sinus
+Baş ağrısı ve yüksek ateş yaşıyorum.,q_fever
+Bahar alerjisi nedeniyle ateşim ve burun akıntım var.,hay_fever
+Romatizmal ateş belirtileriyle eklem ağrıları ve ateş hissediyorum.,rheumatic_fever
+Q ateşi yüzünden ateşim ve baş ağrım var.,q_fever
+Tifo belirtileri ile ateşim var ve kendimi çok yorgun hissediyorum.,typhoid
+Seslere ve ışığa karşı aşırı hassasiyet yaşıyorum.,migraine
+Yüksek ateş ve karın bölgesinde şiddetli ağrı yaşıyorum.,typhoid
+Romatizmal ateş belirtileri ile yüksek ateş yaşıyorum.,rheumatic_fever
+Yüksek ateş ve sarı humma belirtileri yaşıyorum.,yellow_fever
+Sarı humma nedeniyle ateş ve mide ağrısı çekiyorum.,yellow_fever
+Göz çevremde ağrı ve göz yaşarması oluyor.,cluster
+"Başımda sıkışma hissi var, özellikle alın ve şakaklarda.",tension
+Burun akıntısı ve yüzümde ağrı hissediyorum.,sinus
+Yüksek ateş ve sarı humma belirtileri yaşıyorum.,yellow_fever
+Karaciğer ağrısı ve yüksek ateş hissediyorum.,yellow_fever
+Göz çevremde ağrı ve göz yaşarması oluyor.,cluster
+Yüksek ateş ve romatizmal ağrılar yaşıyorum.,rheumatic_fever
+Sürekli terliyorum ve ateşim var.,fever
+Göz çevremde ağrı ve göz yaşarması oluyor.,cluster
+Romatizmal ateş nedeniyle göğüs ağrısı ve yüksek ateşim var.,rheumatic_fever
+Yüksek ateş ve kas ağrıları yaşıyorum.,q_fever
+Yüksek ateş ve kızıl nedeniyle cildimde döküntüler var.,scarlet_fever
+Eklem bölgelerinde ağrı ve ateş hissediyorum.,rheumatic_fever
+Sinüslerimde baskı ve başımda sürekli bir ağrı var.,sinus
+Şakaklarımda ve başımın arka kısmında basınç hissediyorum.,tension
+Yüksek ateşim var ve yemek yemek istemiyorum.,fever
+Ateş ve alerji yüzünden gözlerimde kaşıntı var.,hay_fever
+Gözümün arkasında zonklayıcı bir ağrı hissediyorum.,cluster
+Gözümün arkasında zonklayıcı bir ağrı hissediyorum.,cluster
+Yüzümde ve alnımda baskı ve dolgunluk hissediyorum.,sinus
+Yüksek ateş ve kas ağrıları yaşıyorum.,q_fever
+Alerjik reaksiyonlarla birlikte ateş ve hapşırma hissediyorum.,hay_fever
+Yüksek ateşim var ve yemek yemek istemiyorum.,fever
+Romatizmal ateş nedeniyle göğüs ağrısı ve yüksek ateşim var.,rheumatic_fever
+"Başım ağrıyor ve midem bulanıyor, ışığa bakamıyorum.",migraine
+Romatizmal ateş nedeniyle göğüs ağrısı ve yüksek ateşim var.,rheumatic_fever
+"Gün boyunca süren donuk, sıkıcı bir baş ağrım var.",tension
+Q ateşi belirtileri ile ateş ve halsizlik hissediyorum.,q_fever
+Ateş ve alerji yüzünden gözlerimde kaşıntı var.,hay_fever
+Sarı humma belirtileriyle yüksek ateş ve baş ağrısı yaşıyorum.,yellow_fever
+Bahar alerjisi nedeniyle yüksek ateş ve burun tıkanıklığı yaşıyorum.,hay_fever
+Sarı humma belirtileriyle yüksek ateş ve baş ağrısı yaşıyorum.,yellow_fever
+Romatizmal ateş belirtileriyle eklem ağrıları ve ateş hissediyorum.,rheumatic_fever
+Q ateşi yüzünden ateşim ve baş ağrım var.,q_fever
+Sarı humma nedeniyle ateş ve mide ağrısı çekiyorum.,yellow_fever
+Yüksek ateş ve kızıl nedeniyle cildimde döküntüler var.,scarlet_fever
+Q ateşi yüzünden ateşim ve baş ağrım var.,q_fever
+Sarı humma nedeniyle ateş ve mide ağrısı çekiyorum.,yellow_fever
+Alerjik reaksiyonlarla birlikte ateş ve hapşırma hissediyorum.,hay_fever
+Romatizmal ateş nedeniyle göğüs ağrısı ve yüksek ateşim var.,rheumatic_fever
+Romatizmal ateş belirtileri ile yüksek ateş yaşıyorum.,rheumatic_fever
+Yüksek ateş ve sarı humma belirtileri yaşıyorum.,yellow_fever
+Göz çevremde ağrı ve göz yaşarması oluyor.,cluster
+Vücudum yanıyormuş gibi hissediyorum ve üşüyorum.,fever
+Gözümde ve başımda aynı anda başlayan ani ağrılar yaşıyorum.,cluster
+Q ateşi belirtileri ile ateş ve halsizlik hissediyorum.,q_fever
+Karın bölgemde ağrı ve ateş hissediyorum.,typhoid
+Tifo yüzünden halsiz ve yüksek ateşliyim.,typhoid
+Gözümün arkasında zonklayıcı bir ağrı hissediyorum.,cluster
+Vücudum yanıyormuş gibi hissediyorum ve üşüyorum.,fever
+Bahar alerjisi nedeniyle ateşim ve burun akıntım var.,hay_fever
+Romatizmal ateş belirtileri ile yüksek ateş yaşıyorum.,rheumatic_fever
+Vücudum yanıyormuş gibi hissediyorum ve üşüyorum.,fever
+Kızıl yüzünden yüksek ateşim var ve boğazım çok ağrıyor.,scarlet_fever
+Alerji belirtileri ile birlikte ateş yaşıyorum.,hay_fever
+"Gün boyunca süren donuk, sıkıcı bir baş ağrım var.",tension
+Ateş ve boğazda şiddetli ağrı yaşıyorum.,scarlet_fever
+Kızıl yüzünden yüksek ateşim var ve boğazım çok ağrıyor.,scarlet_fever
+Gece boyunca yüksek ateşle uyanıyorum.,fever
+Cildimde kızarıklık ve ateş hissediyorum.,scarlet_fever
+Romatizmal ateş belirtileri ile yüksek ateş yaşıyorum.,rheumatic_fever
+Burun tıkanıklığı ile birlikte baş ağrısı yaşıyorum.,sinus
+Sarı humma nedeniyle ateş ve mide ağrısı çekiyorum.,yellow_fever
+Yüksek ateş ve kas ağrıları yaşıyorum.,q_fever
+Yüksek ateş ve romatizmal ağrılar yaşıyorum.,rheumatic_fever
+Sürekli terliyorum ve ateşim var.,fever
+Yüksek ateş ve kas ağrıları yaşıyorum.,q_fever
+Alerjik reaksiyonlarla birlikte ateş ve hapşırma hissediyorum.,hay_fever
+Q ateşi belirtileri ile ateş ve halsizlik hissediyorum.,q_fever
+Yüzümde ve alnımda baskı ve dolgunluk hissediyorum.,sinus
+Karaciğer ağrısı ve yüksek ateş hissediyorum.,yellow_fever
+Q ateşi yüzünden ateşim ve baş ağrım var.,q_fever
+Tifo yüzünden halsiz ve yüksek ateşliyim.,typhoid
+Karın bölgemde ağrı ve ateş hissediyorum.,typhoid
+Yüksek ateş ve kas ağrıları yaşıyorum.,q_fever
+Romatizmal ateş nedeniyle göğüs ağrısı ve yüksek ateşim var.,rheumatic_fever
+Şiddetli baş ağrısı ve mide bulantısı hissediyorum.,migraine
+Yüksek ateş ve kızıl nedeniyle cildimde döküntüler var.,scarlet_fever
+"Başım ağrıyor ve midem bulanıyor, ışığa bakamıyorum.",migraine
+Gece boyunca yüksek ateşle uyanıyorum.,fever
+Gözümde ve başımda aynı anda başlayan ani ağrılar yaşıyorum.,cluster
+Yüksek ateş ve kas ağrıları yaşıyorum.,q_fever
+Ateşle birlikte kas ve eklem ağrıları çekiyorum.,fever
+Yüksek ateşim var ve yemek yemek istemiyorum.,fever
+Gözümün arkasında zonklayıcı bir ağrı hissediyorum.,cluster
+Vücudum yanıyormuş gibi hissediyorum ve üşüyorum.,fever
+Gözlerimde ışık çakmaları görüyorum ve başım ağrıyor.,migraine
+Gözümün arkasında zonklayıcı bir ağrı hissediyorum.,cluster
+Göz çevremde ağrı ve göz yaşarması oluyor.,cluster
+Bahar alerjisi nedeniyle ateşim ve burun akıntım var.,hay_fever
+Şakaklarımda ve başımın arka kısmında basınç hissediyorum.,tension
+Ateş ve boğazda şiddetli ağrı yaşıyorum.,scarlet_fever
+Eğildiğimde başımda ağrı artıyor.,sinus
+Sarı humma yüzünden ateşim var ve cildim sararmış.,yellow_fever
+Gözümde ve başımda aynı anda başlayan ani ağrılar yaşıyorum.,cluster
+Ateşle birlikte kas ve eklem ağrıları çekiyorum.,fever
+Karaciğer ağrısı ve yüksek ateş hissediyorum.,yellow_fever
+Göz çevremde ağrı ve göz yaşarması oluyor.,cluster
+"Gün boyunca süren donuk, sıkıcı bir baş ağrım var.",tension
+Şiddetli baş ağrısı ve mide bulantısı hissediyorum.,migraine
+Tifo nedeniyle yüksek ateşim var ve karın ağrısı çekiyorum.,typhoid
+Gözümün arkasında zonklayıcı bir ağrı hissediyorum.,cluster
+Sinüslerimde baskı ve başımda sürekli bir ağrı var.,sinus
+Romatizmal ateş nedeniyle göğüs ağrısı ve yüksek ateşim var.,rheumatic_fever
+"Başımda sıkışma hissi var, özellikle alın ve şakaklarda.",tension
+Romatizmal ateş belirtileriyle eklem ağrıları ve ateş hissediyorum.,rheumatic_fever
+Başımın bir tarafında zonklayan bir ağrı var ve ışığa hassasiyetim var.,migraine
+Gözümün arkasında zonklayıcı bir ağrı hissediyorum.,cluster
+Gözümün etrafında yoğun bir ağrı hissediyorum.,cluster
+Ateşle birlikte kas ve eklem ağrıları çekiyorum.,fever
+Kızıl belirtileriyle ateşim ve boğaz ağrım var.,scarlet_fever
+Sarı humma yüzünden ateşim var ve cildim sararmış.,yellow_fever
+Karın bölgemde ağrı ve ateş hissediyorum.,typhoid
+Tifo nedeniyle yüksek ateşim var ve karın ağrısı çekiyorum.,typhoid
+Gözümün etrafında yoğun bir ağrı hissediyorum.,cluster
+Cildimde kızarıklık ve ateş hissediyorum.,scarlet_fever
+Eğildiğimde başımda ağrı artıyor.,sinus
+Vücudum yanıyormuş gibi hissediyorum ve üşüyorum.,fever
+Sarı humma yüzünden ateşim var ve cildim sararmış.,yellow_fever
+Gözümde ve başımda aynı anda başlayan ani ağrılar yaşıyorum.,cluster
+Burun akıntısı ve yüzümde ağrı hissediyorum.,sinus
+Karaciğer ağrısı ve yüksek ateş hissediyorum.,yellow_fever
+Göz çevremde ağrı ve göz yaşarması oluyor.,cluster
+Bahar alerjisi nedeniyle yüksek ateş ve burun tıkanıklığı yaşıyorum.,hay_fever
+Romatizmal ateş nedeniyle göğüs ağrısı ve yüksek ateşim var.,rheumatic_fever
+Kızıl yüzünden yüksek ateşim var ve boğazım çok ağrıyor.,scarlet_fever
+Yüksek ateş ve sarı humma belirtileri yaşıyorum.,yellow_fever
+Gözlerimde ışık çakmaları görüyorum ve başım ağrıyor.,migraine
+Sarı humma belirtileriyle yüksek ateş ve baş ağrısı yaşıyorum.,yellow_fever
+"Başım ağrıyor ve midem bulanıyor, ışığa bakamıyorum.",migraine
+Burun akıntısı ve yüzümde ağrı hissediyorum.,sinus
+"Başımda sıkışma hissi var, özellikle alın ve şakaklarda.",tension
+Yüzümde ve alnımda baskı ve dolgunluk hissediyorum.,sinus
+Gözlerimde ışık çakmaları görüyorum ve başım ağrıyor.,migraine
+Başımın bir tarafında zonklayan bir ağrı var ve ışığa hassasiyetim var.,migraine
+Yüksek ateş ve romatizmal ağrılar yaşıyorum.,rheumatic_fever
+Göz çevremde ağrı ve göz yaşarması oluyor.,cluster
+Yüksek ateş ve romatizmal ağrılar yaşıyorum.,rheumatic_fever
+Sarı humma nedeniyle ateş ve mide ağrısı çekiyorum.,yellow_fever
+Bahar alerjisi nedeniyle yüksek ateş ve burun tıkanıklığı yaşıyorum.,hay_fever
+Q ateşi belirtileri ile ateş ve halsizlik hissediyorum.,q_fever
+"Gün boyunca süren donuk, sıkıcı bir baş ağrım var.",tension
+Sarı humma nedeniyle ateş ve mide ağrısı çekiyorum.,yellow_fever
+"Çalışırken baş ağrım artıyor, sıkışma hissi yaşıyorum.",tension
+Eklem bölgelerinde ağrı ve ateş hissediyorum.,rheumatic_fever
+Yüksek ateş ve kızıl nedeniyle cildimde döküntüler var.,scarlet_fever
+Karın bölgemde ağrı ve ateş hissediyorum.,typhoid
+Yüksek ateş ve karın bölgesinde şiddetli ağrı yaşıyorum.,typhoid
+Eklem bölgelerinde ağrı ve ateş hissediyorum.,rheumatic_fever
+"Başımda sıkışma hissi var, özellikle alın ve şakaklarda.",tension
+Eklem bölgelerinde ağrı ve ateş hissediyorum.,rheumatic_fever
+Ateşle birlikte kas ve eklem ağrıları çekiyorum.,fever
+Tifo nedeniyle yüksek ateşim var ve karın ağrısı çekiyorum.,typhoid
+Göz çevremde ağrı ve göz yaşarması oluyor.,cluster
+Ateşle birlikte kas ve eklem ağrıları çekiyorum.,fever
+Baş ağrısı ve yüksek ateş yaşıyorum.,q_fever
+Yüksek ateş ve sarı humma belirtileri yaşıyorum.,yellow_fever
+Şiddetli baş ağrısı ve mide bulantısı hissediyorum.,migraine
+Ateş ve alerji yüzünden gözlerimde kaşıntı var.,hay_fever
+"Başım ağrıyor ve midem bulanıyor, ışığa bakamıyorum.",migraine
+Şiddetli baş ağrısı ve mide bulantısı hissediyorum.,migraine
+Eklem bölgelerinde ağrı ve ateş hissediyorum.,rheumatic_fever
+Yüksek ateş ve sarı humma belirtileri yaşıyorum.,yellow_fever
+Cildimde kızarıklık ve ateş hissediyorum.,scarlet_fever
+Romatizmal ateş belirtileri ile yüksek ateş yaşıyorum.,rheumatic_fever
+Ateş ve alerji yüzünden gözlerimde kaşıntı var.,hay_fever
+"Gün boyunca süren donuk, sıkıcı bir baş ağrım var.",tension
+Gözümün arkasında zonklayıcı bir ağrı hissediyorum.,cluster
+Romatizmal ateş belirtileri ile yüksek ateş yaşıyorum.,rheumatic_fever
+Yüzümde ve alnımda baskı ve dolgunluk hissediyorum.,sinus
+Sarı humma belirtileriyle yüksek ateş ve baş ağrısı yaşıyorum.,yellow_fever
+Q ateşi belirtileri ile ateş ve halsizlik hissediyorum.,q_fever
+Ateşle birlikte kas ve eklem ağrıları çekiyorum.,fever
+Şakaklarımda ve başımın arka kısmında basınç hissediyorum.,tension
+Bahar alerjisi nedeniyle yüksek ateş ve burun tıkanıklığı yaşıyorum.,hay_fever
+Gözümün etrafında yoğun bir ağrı hissediyorum.,cluster
+Başımın bir tarafında şiddetli ve ani bir ağrı yaşıyorum.,cluster
+"Çalışırken baş ağrım artıyor, sıkışma hissi yaşıyorum.",tension
+"Başım ağrıyor ve midem bulanıyor, ışığa bakamıyorum.",migraine
+Gece boyunca yüksek ateşle uyanıyorum.,fever
+Bahar alerjisi nedeniyle ateşim ve burun akıntım var.,hay_fever
+Sarı humma nedeniyle ateş ve mide ağrısı çekiyorum.,yellow_fever
+Kızıl belirtileriyle ateşim ve boğaz ağrım var.,scarlet_fever
+Vücudum yanıyormuş gibi hissediyorum ve üşüyorum.,fever
+Karın bölgemde ağrı ve ateş hissediyorum.,typhoid
+Alerji belirtileri ile birlikte ateş yaşıyorum.,hay_fever
+Karın bölgemde ağrı ve ateş hissediyorum.,typhoid
+Q ateşi belirtileri ile ateş ve halsizlik hissediyorum.,q_fever
+Gözlerimde ışık çakmaları görüyorum ve başım ağrıyor.,migraine
+"Başımda sıkışma hissi var, özellikle alın ve şakaklarda.",tension
+Q ateşi yüzünden ateşim ve baş ağrım var.,q_fever
+Sarı humma nedeniyle ateş ve mide ağrısı çekiyorum.,yellow_fever
+Alerjik reaksiyonlarla birlikte ateş ve hapşırma hissediyorum.,hay_fever
+Romatizmal ateş belirtileriyle eklem ağrıları ve ateş hissediyorum.,rheumatic_fever
+Tifo belirtileri ile ateşim var ve kendimi çok yorgun hissediyorum.,typhoid
+Yüksek ateş ve sarı humma belirtileri yaşıyorum.,yellow_fever
+Eklem bölgelerinde ağrı ve ateş hissediyorum.,rheumatic_fever
+Baş ağrısı ve yüksek ateş yaşıyorum.,q_fever
+Cildimde kızarıklık ve ateş hissediyorum.,scarlet_fever
+Vücudum yanıyormuş gibi hissediyorum ve üşüyorum.,fever
+Gözümün arkasında zonklayıcı bir ağrı hissediyorum.,cluster
+Gözümün etrafında yoğun bir ağrı hissediyorum.,cluster
+Şakaklarımda ve başımın arka kısmında basınç hissediyorum.,tension
+Q ateşi yüzünden ateşim ve baş ağrım var.,q_fever
+Şakaklarımda ve başımın arka kısmında basınç hissediyorum.,tension
+Gece boyunca yüksek ateşle uyanıyorum.,fever
+Tifo nedeniyle yüksek ateşim var ve karın ağrısı çekiyorum.,typhoid
+Sinüslerimde baskı ve başımda sürekli bir ağrı var.,sinus
+Yüzümde ve alnımda baskı ve dolgunluk hissediyorum.,sinus
+Karaciğer ağrısı ve yüksek ateş hissediyorum.,yellow_fever
+Burun tıkanıklığı ile birlikte baş ağrısı yaşıyorum.,sinus
+Vücudum yanıyormuş gibi hissediyorum ve üşüyorum.,fever
+Bahar alerjisi nedeniyle yüksek ateş ve burun tıkanıklığı yaşıyorum.,hay_fever
+Yüzümde ve alnımda baskı ve dolgunluk hissediyorum.,sinus
+Alerjik reaksiyonlarla birlikte ateş ve hapşırma hissediyorum.,hay_fever
+Cildimde kızarıklık ve ateş hissediyorum.,scarlet_fever
+Başımın bir tarafında zonklayan bir ağrı var ve ışığa hassasiyetim var.,migraine
+Tifo yüzünden halsiz ve yüksek ateşliyim.,typhoid
+"Gün boyunca süren donuk, sıkıcı bir baş ağrım var.",tension
+Yüksek ateşim var ve yemek yemek istemiyorum.,fever
+Gözlerimde ışık çakmaları görüyorum ve başım ağrıyor.,migraine
+Sürekli terliyorum ve ateşim var.,fever
+Burun tıkanıklığı ile birlikte baş ağrısı yaşıyorum.,sinus
+Yüksek ateş ve kas ağrıları yaşıyorum.,q_fever
+Tifo yüzünden halsiz ve yüksek ateşliyim.,typhoid
+Romatizmal ateş belirtileriyle eklem ağrıları ve ateş hissediyorum.,rheumatic_fever
+Sarı humma nedeniyle ateş ve mide ağrısı çekiyorum.,yellow_fever
+Alerji belirtileri ile birlikte ateş yaşıyorum.,hay_fever
+Romatizmal ateş nedeniyle göğüs ağrısı ve yüksek ateşim var.,rheumatic_fever
+Ateş ve boğazda şiddetli ağrı yaşıyorum.,scarlet_fever
+Başımın bir tarafında zonklayan bir ağrı var ve ışığa hassasiyetim var.,migraine
+Gözümün etrafında yoğun bir ağrı hissediyorum.,cluster
+Göz çevremde ağrı ve göz yaşarması oluyor.,cluster
+Başımın bir tarafında zonklayan bir ağrı var ve ışığa hassasiyetim var.,migraine
+Sarı humma yüzünden ateşim var ve cildim sararmış.,yellow_fever
+Romatizmal ateş nedeniyle göğüs ağrısı ve yüksek ateşim var.,rheumatic_fever
+Yüksek ateş ve sarı humma belirtileri yaşıyorum.,yellow_fever
+Ateşle birlikte kas ve eklem ağrıları çekiyorum.,fever
+Bahar alerjisi nedeniyle yüksek ateş ve burun tıkanıklığı yaşıyorum.,hay_fever
+Boynumda ve omuzlarımda gerginlik hissediyorum.,tension
+Yüksek ateş ve sarı humma belirtileri yaşıyorum.,yellow_fever
+Romatizmal ateş belirtileri ile yüksek ateş yaşıyorum.,rheumatic_fever
+Romatizmal ateş nedeniyle göğüs ağrısı ve yüksek ateşim var.,rheumatic_fever
+Ateşle birlikte kas ve eklem ağrıları çekiyorum.,fever
+Romatizmal ateş belirtileriyle eklem ağrıları ve ateş hissediyorum.,rheumatic_fever
+Bahar alerjisi nedeniyle ateşim ve burun akıntım var.,hay_fever
+Alerji belirtileri ile birlikte ateş yaşıyorum.,hay_fever
+Kızıl yüzünden yüksek ateşim var ve boğazım çok ağrıyor.,scarlet_fever
+Tifo belirtileri ile ateşim var ve kendimi çok yorgun hissediyorum.,typhoid
+Başımın bir tarafında şiddetli ve ani bir ağrı yaşıyorum.,cluster
+Baş ağrısı ve yüksek ateş yaşıyorum.,q_fever
+Tifo belirtileri ile ateşim var ve kendimi çok yorgun hissediyorum.,typhoid
+Tifo nedeniyle yüksek ateşim var ve karın ağrısı çekiyorum.,typhoid
+Ateş ve boğazda şiddetli ağrı yaşıyorum.,scarlet_fever
+"Başım ağrıyor ve midem bulanıyor, ışığa bakamıyorum.",migraine
+Gece boyunca yüksek ateşle uyanıyorum.,fever
+Sinüslerimde baskı ve başımda sürekli bir ağrı var.,sinus
+Gözümün arkasında zonklayıcı bir ağrı hissediyorum.,cluster
+Sarı humma nedeniyle ateş ve mide ağrısı çekiyorum.,yellow_fever
+Seslere ve ışığa karşı aşırı hassasiyet yaşıyorum.,migraine
+Baş ağrısı ve yüksek ateş yaşıyorum.,q_fever
+Şakaklarımda ve başımın arka kısmında basınç hissediyorum.,tension
+Bahar alerjisi nedeniyle yüksek ateş ve burun tıkanıklığı yaşıyorum.,hay_fever
+Tifo belirtileri ile ateşim var ve kendimi çok yorgun hissediyorum.,typhoid
+Sinüslerimde baskı ve başımda sürekli bir ağrı var.,sinus
+Alerji belirtileri ile birlikte ateş yaşıyorum.,hay_fever
+Kızıl yüzünden yüksek ateşim var ve boğazım çok ağrıyor.,scarlet_fever
+Burun tıkanıklığı ile birlikte baş ağrısı yaşıyorum.,sinus
+Ateş ve boğazda şiddetli ağrı yaşıyorum.,scarlet_fever
+Sarı humma nedeniyle ateş ve mide ağrısı çekiyorum.,yellow_fever
+Sarı humma yüzünden ateşim var ve cildim sararmış.,yellow_fever
+Sürekli terliyorum ve ateşim var.,fever
+Burun tıkanıklığı ile birlikte baş ağrısı yaşıyorum.,sinus
+Ateş ve boğazda şiddetli ağrı yaşıyorum.,scarlet_fever
+Sinüslerimde baskı ve başımda sürekli bir ağrı var.,sinus
+Şakaklarımda ve başımın arka kısmında basınç hissediyorum.,tension
+Baş ağrısı ve yüksek ateş yaşıyorum.,q_fever
+Sarı humma nedeniyle ateş ve mide ağrısı çekiyorum.,yellow_fever
+Sürekli terliyorum ve ateşim var.,fever
+Gözümün arkasında zonklayıcı bir ağrı hissediyorum.,cluster
+Şakaklarımda ve başımın arka kısmında basınç hissediyorum.,tension
+Yüksek ateş ve kızıl nedeniyle cildimde döküntüler var.,scarlet_fever
+Yüksek ateşim var ve yemek yemek istemiyorum.,fever
+Alerjik reaksiyonlarla birlikte ateş ve hapşırma hissediyorum.,hay_fever
+Yüzümde ve alnımda baskı ve dolgunluk hissediyorum.,sinus
+Eğildiğimde başımda ağrı artıyor.,sinus
+Başımın bir tarafında şiddetli ve ani bir ağrı yaşıyorum.,cluster
+Eğildiğimde başımda ağrı artıyor.,sinus
+Romatizmal ateş belirtileri ile yüksek ateş yaşıyorum.,rheumatic_fever
+Başımın bir tarafında şiddetli ve ani bir ağrı yaşıyorum.,cluster
+Gözümde ve başımda aynı anda başlayan ani ağrılar yaşıyorum.,cluster
+Gözlerimde ışık çakmaları görüyorum ve başım ağrıyor.,migraine
+Baş ağrısı ve yüksek ateş yaşıyorum.,q_fever
+Tifo yüzünden halsiz ve yüksek ateşliyim.,typhoid
+Seslere ve ışığa karşı aşırı hassasiyet yaşıyorum.,migraine
+Bahar alerjisi nedeniyle ateşim ve burun akıntım var.,hay_fever
+Yüksek ateş ve romatizmal ağrılar yaşıyorum.,rheumatic_fever
+Yüksek ateş ve kızıl nedeniyle cildimde döküntüler var.,scarlet_fever
+Eğildiğimde başımda ağrı artıyor.,sinus
+Baş ağrısı ve yüksek ateş yaşıyorum.,q_fever
+Burun tıkanıklığı ile birlikte baş ağrısı yaşıyorum.,sinus
+Yüksek ateş ve sarı humma belirtileri yaşıyorum.,yellow_fever
+Vücudum yanıyormuş gibi hissediyorum ve üşüyorum.,fever
+Ateş ve alerji yüzünden gözlerimde kaşıntı var.,hay_fever
+Şakaklarımda ve başımın arka kısmında basınç hissediyorum.,tension
+Yüksek ateş ve kızıl nedeniyle cildimde döküntüler var.,scarlet_fever
+Q ateşi nedeniyle kas ağrıları ve ateş hissediyorum.,q_fever
+Vücudum yanıyormuş gibi hissediyorum ve üşüyorum.,fever
+Boynumda ve omuzlarımda gerginlik hissediyorum.,tension
+Cildimde kızarıklık ve ateş hissediyorum.,scarlet_fever
