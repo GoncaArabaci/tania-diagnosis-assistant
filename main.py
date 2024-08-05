@@ -49,10 +49,10 @@ clf.fit(X_train, y_train)
 
 # Patient history data
 patients = {
-    "koray": {"age": 20, "past_conditions": ["sinus"]},
-    "ayşe": {"age": 45, "past_conditions": ["migraine"]},
-    "mehmet": {"age": 30, "past_conditions": ["tension"]},
-    "ali": {"age": 50, "past_conditions": ["cluster"]},
+    "koray": {"age": 20, "past_conditions": ["sinüzit"]},
+    "ayşe": {"age": 45, "past_conditions": ["migren"]},
+    "mehmet": {"age": 30, "past_conditions": ["gerilme tipi baş ağrısı"]},
+    "ali": {"age": 50, "past_conditions": ["küme tipi baş ağrısı"]},
 }
 
 # Voice recognition and prediction
@@ -71,14 +71,7 @@ stream.start_stream()
 
 print("Dinleniyor...")
 
-patient_name = "koray"  # Patient name
-patient_info = patients.get(patient_name)
-if patient_info:
-    print(f"Hasta Adı: {patient_name.capitalize()}")
-    print(f"Yaş: {patient_info['age']}")
-    print(f"Geçmiş Tanılar: {', '.join(patient_info['past_conditions'])}")
-else:
-    print(f"Hastayla ilgili bilgi bulunamadı: {patient_name}")
+patient_name = None
 
 while True:
     data = stream.read(4000, exception_on_overflow=False)
@@ -88,9 +81,22 @@ while True:
         result = json.loads(recognizer.Result())
         speech_text = result.get("text", "")
         if speech_text:
-            print(f"Alınan Konuşma: {speech_text}")
-            # Metni ön işleme
-            processed_speech_text = preprocess_text(speech_text)
-            new_X = vectorizer.transform([processed_speech_text])
-            pred = clf.predict(new_X)[0]
-            print(f"Tahmin: {pred}")
+            print(f"İsminizi Söyleyin: {speech_text}")
+            if not patient_name:
+                # İlk alınan metni hasta ismi olarak kabul et
+                patient_name = speech_text.lower()
+                patient_info = patients.get(patient_name)
+                if patient_info:
+                    print(f"Hasta Adı: {patient_name.capitalize()}")
+                    print(f"Yaş: {patient_info['age']}")
+                    print(f"Geçmiş Tanılar: {', '.join(patient_info['past_conditions'])}")
+                    print(f"Şikayetiniz Nedir:")
+                else:
+                    print(f"Hastayla ilgili bilgi bulunamadı lütfen tekrar adınızı söyleyin: {patient_name}")
+                    patient_name = None  # Hastayı bulamazsa tekrar isim bekle
+            else:
+                # Hasta ismi belirlendikten sonra alınan metin üzerinden tahmin yap
+                processed_speech_text = preprocess_text(speech_text)
+                new_X = vectorizer.transform([processed_speech_text])
+                pred = clf.predict(new_X)[0]
+                print(f"Tahmin: {pred}")
