@@ -1,0 +1,2140 @@
+{
+    "göz": [
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "Problem hangi gözünüzde?",
+                "Ne yaptığınızda düzeliyor?",
+                "Ne kadar sürüyor?",
+                "Başka belirtiler var mı?"
+            ],
+            "answers": [
+                "Uzak nesnelerde bulanıklık",
+                "Her iki göz",
+                "Nesneleri yüzünüze yakın tutma, Gözlerinizi kısma",
+                "Sürekli",
+                "Göz yorgunluğu, Baş ağrısı"
+            ],
+            "disease": "Miyopi"
+        },
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "Problem hangi gözünüzde?",
+                "Ne yaptığınızda düzeliyor?",
+                "Ne kadar sürüyor?",
+                "Başka belirtiler var mı?"
+            ],
+            "answers": [
+                "Yakın nesnelerde bulanıklık",
+                "Her iki göz",
+                "Nesneleri yüzünüzden uzak tutma, Gözlerinizi kısma",
+                "Sürekli",
+                "Göz yorgunluğu, Baş ağrısı"
+            ],
+            "disease": "Hipermetropi"
+        },
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "Problem hangi gözünüzde?",
+                "Ne yaptığınızda düzeliyor?",
+                "Ne kadar sürüyor?",
+                "Başka belirtiler var mı?"
+            ],
+            "answers": [
+                "Görüşün ortasında bulanık veya kör nokta",
+                "Her iki göz",
+                "Parlak aydınlatma kullanma",
+                "Sürekli",
+                "Renklerin solması, Gece görüşü zayıflığı, Halüsinasyon görme"
+            ],
+            "disease": "Makula Dejenerasyonu Hastalığı"
+        },
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "Problem hangi gözünüzde?",
+                "Ne yaptığınızda düzeliyor?",
+                "Ne kadar sürüyor?",
+                "Başka belirtiler var mı?"
+            ],
+            "answers": [
+                "Çift görüş",
+                "Her iki göz",
+                "Yok",
+                "Sürekli",
+                "Baş dönmesi veya yürüme zorluğu, Vücudun bir tarafında uyuşma veya zayıflık"
+            ],
+            "disease": "İnme (Felç)"
+        },
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "Problem hangi gözünüzde?",
+                "Ne yaptığınızda düzeliyor?",
+                "Ne kadar sürüyor?",
+                "Başka belirtiler var mı?"
+            ],
+            "answers": [
+                "Işığa duyarlılık",
+                "Her iki göz",
+                "Gözlerinizi kısma",
+                "Birkaç dakika",
+                "Baş ağrısı"
+            ],
+            "disease": "Migren"
+        },
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "Problem hangi gözünüzde?",
+                "Ne yaptığınızda düzeliyor?",
+                "Ne kadar sürüyor?",
+                "Başka belirtiler var mı?"
+            ],
+            "answers": [
+                "Tüm mesafelerde bulanık görüş",
+                "Her iki göz",
+                "Yok",
+                "Sürekli",
+                "Baş dönmesi veya yürüme zorluğu, Vücudun bir tarafında uyuşma veya zayıflık"
+            ],
+            "disease": "Geçici İskemik Atak"
+        },
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "Problem hangi gözünüzde?",
+                "Ne yaptığınızda düzeliyor?",
+                "Ne kadar sürüyor?",
+                "Başka belirtiler var mı?"
+            ],
+            "answers": [
+                "Nesnelerin eğik veya çarpık görünmesi",
+                "Her iki göz",
+                "Gözlerinizi kısma",
+                "Sürekli",
+                "Göz yorgunluğu, Baş ağrısı"
+            ],
+            "disease": "Astigmatizm"
+        },
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "Problem hangi gözünüzde?",
+                "Ne yaptığınızda düzeliyor?",
+                "Ne kadar sürüyor?",
+                "Başka belirtiler var mı?"
+            ],
+            "answers": [
+                "Bulanık puslu veya loş görüş",
+                "Her iki göz",
+                "Yok",
+                "Sürekli",
+                "Çift görüş, Renklerin solması, Parlak ışıklarla parıltı, Işıkların etrafında halkalar, Gece görüşü zayıflığı, Işığa duyarlılık"
+            ],
+            "disease": "Katarakt"
+        },
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "Problem hangi gözünüzde?",
+                "Ne yaptığınızda düzeliyor?",
+                "Ne kadar sürüyor?",
+                "Başka belirtiler var mı?"
+            ],
+            "answers": [
+                "Yan görüş kaybı",
+                "Her iki göz",
+                "Yok",
+                "Sürekli",
+                "Yok"
+            ],
+            "disease": "Glokom"
+        },
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "Problem hangi gözünüzde?",
+                "Ne yaptığınızda düzeliyor?",
+                "Ne kadar sürüyor?",
+                "Başka belirtiler var mı?"
+            ],
+            "answers": [
+                "Bir gözde görüş kaybı",
+                "Bir göz",
+                "Yok",
+                "Sürekli",
+                "Yok"
+            ],
+            "disease": "Göz Tembelliği (Ambliyopi)"
+        }
+    ],
+    "üriner": [
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "İdrar probleminiz var mı?",
+                "Başka belirtiler var mı?",
+                "Probleminiz adet döngüsü veya stresle kötüleşiyor mu?",
+                "İlişkili ağrılarınız var mı?"
+            ],
+            "answers": [
+                "Mesaneyi boşaltmada zorluk veya zayıf idrar akışı",
+                "Sık idrara çıkma, Şiddetli, kalıcı idrar yapma isteği",
+                "Yok",
+                "Adet döngüsü ile kötüleşir, Stres ile kötüleşir",
+                "Alt karın veya kasık ağrısı, Ağrılı cinsel ilişki"
+            ],
+            "disease": "İnterstisyel Sistit"
+        },
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "İdrar probleminiz var mı?",
+                "Başka belirtiler var mı?",
+                "İdrarda kan var mı?",
+                "İlişkili ağrılarınız var mı?"
+            ],
+            "answers": [
+                "Gece iki veya daha fazla kez idrara çıkmak için uyanma",
+                "Mesaneyi boşaltmada zorluk veya zayıf idrar akışı, Sık idrara çıkma, Şiddetli, kalıcı idrar yapma isteği",
+                "Ateş, Bulantı veya kusma",
+                "Evet",
+                "Alt karın veya kasık ağrısı, Sırt veya yan ağrısı, Ağrılı ejakulasyon"
+            ],
+            "disease": "Prostat"
+        },
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "İdrar probleminiz var mı?",
+                "Başka belirtiler var mı?",
+                "İdrarda kan var mı?",
+                "İdrarınızın rengi veya kokusu değişti mi?"
+            ],
+            "answers": [
+                "Mesaneyi boşaltmada zorluk veya zayıf idrar akışı",
+                "Sık idrara çıkma, Güçlü ve sürekli idrara çıkma isteği",
+                "Ateş, Sarı veya irinli penis akıntısı",
+                "Evet",
+                "Bulanık idrar"
+            ],
+            "disease": "İdrar Yolu Enfeksiyonu"
+        },
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "İdrar probleminiz var mı?",
+                "Başka belirtiler var mı?",
+                "Belirtilerinizin kötüleştiği zamanlar var mı?",
+                "İlişkili ağrılarınız var mı?"
+            ],
+            "answers": [
+                "Genital bölgelerde, popo veya iç uyluklarda kaşıntı veya yanma",
+                "İdrar yaparken ağrı veya yanma",
+                "Ateş, Genital bölgelerde yumrular, kabarcıklar veya açık yaralar",
+                "Stresten kötüleşir",
+                "Ağrılı cinsel ilişki"
+            ],
+            "disease": "Genital Herpes (Genital Uçuk)"
+        },
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "İdrar probleminiz var mı?",
+                "Başka belirtiler var mı?",
+                "İdrarda kan var mı?",
+                "İlişkili ağrılarınız var mı?"
+            ],
+            "answers": [
+                "Sık idrara çıkma",
+                "Güçlü ve sürekli idrara çıkma isteği",
+                "Ateş",
+                "Evet",
+                "Alt karın veya kasıkta ağrı, Sırt veya yan ağrısı"
+            ],
+            "disease": "Böbrek İltihabı (Nefrit)"
+        },
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "İdrar probleminiz var mı?",
+                "Başka belirtiler var mı?",
+                "İdrarda kan var mı?",
+                "İdrar yapmaya başlamakta zorlanıyor musunuz?"
+            ],
+            "answers": [
+                "Gece iki veya daha fazla kez uyanma",
+                "Mesaneyi boşaltmada zorluk veya zayıf idrar akışı, Sık idrara çıkma, Güçlü ve sürekli idrara çıkma isteği",
+                "Yok",
+                "Evet",
+                "Evet"
+            ],
+            "disease": "Benign Prostat Hiperplazisi"
+        },
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "İdrar probleminiz var mı?",
+                "Başka belirtiler var mı?",
+                "Gece idrara çıkmak için uyanıyor musunuz?",
+                "İdrarınızı tutamıyor musunuz?"
+            ],
+            "answers": [
+                "Gece iki veya daha fazla kez uyanma",
+                "Sık idrara çıkma, Güçlü ve sürekli idrara çıkma isteği",
+                "Yok",
+                "Evet",
+                "Evet"
+            ],
+            "disease": "Aşırı Aktif Mesane"
+        },
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "İdrar probleminiz var mı?",
+                "Başka belirtiler var mı?",
+                "Kilo kaybınız var mı?",
+                "Görme problemleriniz var mı?"
+            ],
+            "answers": [
+                "Sık idrara çıkma",
+                "Yok",
+                "Bulanık görme, Aşırı susuzluk veya açlık, Yorgunluk",
+                "Evet",
+                "Evet"
+            ],
+            "disease": "Tip 1 Diyabet"
+        },
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "İdrar probleminiz var mı?",
+                "Başka belirtiler var mı?",
+                "İdrar yaparken ağrı veya yanma var mı?",
+                "İdrarınızı tutamıyor musunuz?"
+            ],
+            "answers": [
+                "Mesane boşaltmada zorluk veya zayıf idrar akışı",
+                "Sık idrara çıkma, Sürekli ve güçlü bir idrar yapma isteği",
+                "Yok",
+                "Evet",
+                "Evet"
+            ],
+            "disease": "İdrar Kaçırma"
+        },
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "İdrar probleminiz var mı?",
+                "Başka belirtiler var mı?",
+                "İdrar yaparken ağrı veya yanma var mı?",
+                "Vajinal akıntıda veya kokuda değişiklik var mı?"
+            ],
+            "answers": [
+                "Cinsel organlar, popo veya iç uyluklarda kaşıntı veya yanma",
+                "Yok",
+                "Vajinal akıntıda değişiklik, Vajinal koku",
+                "Evet",
+                "Evet"
+            ],
+            "disease": "Vajinit"
+        },
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "İdrar probleminiz var mı?",
+                "Başka belirtiler var mı?",
+                "Penisten akıntı var mı?",
+                "İdrar yaparken ağrı veya yanma var mı?"
+            ],
+            "answers": [
+                "Yok",
+                "Yok",
+                "Penisten berrak akıntı",
+                "Evet",
+                "Evet"
+            ],
+            "disease": "Klamidya Trachomatis"
+        },
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "İdrar probleminiz var mı?",
+                "Başka belirtiler var mı?",
+                "Penisten irin dolu akıntı var mı?",
+                "İdrar yaparken ağrı veya yanma var mı?"
+            ],
+            "answers": [
+                "Yok",
+                "Yok",
+                "Penisten irin dolu akıntı",
+                "Evet",
+                "Evet"
+            ],
+            "disease": "Gonore"
+        }
+       
+    ],
+    "boğaz": [
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "Başka belirtiler var mı?"
+            ],
+            "answers": [
+                "Baş ağrısı veya yüz ağrısı, Kas ağrıları, Hapşırma, Sulanan gözler, Öksürük, Burun akıntısı veya tıkanıklığı, Burundan sarı veya yeşilimsi balgam veya akıntı"
+            ],
+            "disease": "Soğuk Algınlığı (Nezle)"
+        },
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "Başka belirtiler var mı?"
+            ],
+            "answers": [
+                "Yutkunma zorluğu veya ağrısı, Baş ağrısı veya yüz ağrısı, Kızarık ve şişmiş bademcikler, Bademciklerde beyaz lekeler veya iltihap, Boyunda büyümüş ve hassas lenf bezleri, Ateş, Cilt döküntüsü"
+            ],
+            "disease": "Streptokok Sebepli Boğaz Ağrısı"
+        },
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "Başka belirtiler var mı?"
+            ],
+            "answers": [
+                "Yutkunma zorluğu veya ağrısı, Baş ağrısı veya yüz ağrısı, Kızarık ve şişmiş bademcikler, Bademciklerde beyaz lekeler veya iltihap, Boyunda büyümüş ve hassas lenf bezleri, Ateş, Kısık veya boğuk ses, Cilt döküntüsü"
+            ],
+            "disease": "Tonsilit"
+        },
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "Başka belirtiler var mı?"
+            ],
+            "answers": [
+                "Baş ağrısı veya yüz ağrısı, Hapşırma, Su gibi gözyaşları, Öksürük, Burun akıntısı veya tıkanıklığı"
+            ],
+            "disease": "Saman Nezlesi (Bahar Nezlesi)"
+        },
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "Başka belirtiler var mı?"
+            ],
+            "answers": [
+                "Baş ağrısı veya yüz ağrısı, Kas ağrıları, Hapşırma, Üşüme veya terleme, Öksürük, Ateş, Burun akıntısı veya tıkanıklığı"
+            ],
+            "disease": "İnfluenza (Grip)"
+        },
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "Başka belirtiler var mı?"
+            ],
+            "answers": [
+                "Mavi renkli cilt veya dudaklar, Yutma zorluğu veya ağrısı, Zorlu veya kısık nefes, Ateş, Kısık veya boğuk ses"
+            ],
+            "disease": "Epiglottit"
+        },
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "Başka belirtiler var mı?"
+            ],
+            "answers": [
+                "Yutma zorluğu veya ağrısı, Reflü, Öksürük, Kısık veya boğuk ses"
+            ],
+            "disease": "Gastroözefageal Reflü"
+        },
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "Başka belirtiler var mı?"
+            ],
+            "answers": [
+                "Baş ağrısı veya yüz ağrısı, Kırmızı, şişmiş bademcikler, Üşüme veya terleme, Boyunda büyümüş, hassas lenf bezleri, Ateş, Cilt döküntüsü"
+            ],
+            "disease": "Mononükleoz"
+        },
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "Başka belirtiler var mı?"
+            ],
+            "answers": [
+                "Baş ağrısı veya yüz ağrısı, Öksürük, Burun akıntısı veya tıkanıklığı, Sarı veya yeşilimsi balgam veya burun akıntısı"
+            ],
+            "disease": "Akut Sinüzit"
+        }
+        
+    ],
+    "omuz": [
+        {
+            "questions": [
+                "Omuz ağrınızın türü nedir?",
+                "Ağrınız ne zaman başladı?",
+                "Ağrınız ne zaman kötüleşiyor?",
+                "Ağrınız ne zaman iyi geliyor?",
+                "Başka belirtileriniz var mı?"
+            ],
+            "answers": [
+                "Donuk veya ağrılı",
+                "Yavaş yavaş",
+                "Günlük aktivitelerle, Dinlenme veya hareketsizlik ile",
+                "Yok",
+                "Omuz sertliği"
+            ],
+            "disease": "Osteoartrit"
+        },
+        {
+            "questions": [
+                "Omuz ağrınızın türü nedir?",
+                "Ağrınız ne zaman başladı?",
+                "Ağrınız ne zaman kötüleşiyor?",
+                "Başka belirtileriniz var mı?"
+            ],
+            "answers": [
+                "Donuk veya ağrılı",
+                "Yavaş yavaş",
+                "Yok",
+                "Omuz sertliği"
+            ],
+            "disease": "Bursit"
+        },
+        {
+            "questions": [
+                "Omuz ağrınızın türü nedir?",
+                "Ağrınız ne zaman başladı?",
+                "Ağrınız ne zaman kötüleşiyor?",
+                "Başka belirtileriniz var mı?"
+            ],
+            "answers": [
+                "Keskin veya şiddetli",
+                "Ani bir şekilde",
+                "Yaralanma ile",
+                "Kas spazmı, Şişlik, Görünür bir deformite, Omuzu hareket ettirememe, Uyuşma veya karıncalanma, Omuz veya kol zayıflığı"
+            ],
+            "disease": "Omuz Çıkığı"
+        },
+        {
+            "questions": [
+                "Omuz ağrınızın türü nedir?",
+                "Ağrınız ne zaman kötüleşiyor?",
+                "Başka belirtileriniz var mı?"
+            ],
+            "answers": [
+                "Dull veya sızı şeklinde",
+                "Günlük aktivitelerle",
+                "Şişlik"
+            ],
+            "disease": "Tendinit"
+        },
+        {
+            "questions": [
+                "Omuz ağrınızın türü nedir?",
+                "Ağrınız ne zaman kötüleşiyor?",
+                "Başka belirtileriniz var mı?"
+            ],
+            "answers": [
+                "Dull veya sızı şeklinde",
+                "Günlük aktivitelerle, Aşırı kullanım veya efor ile, Yaralanma ile",
+                "Omuz veya kol zayıflığı"
+            ],
+            "disease": "Rotator Cuff Sendromu"
+        },
+        {
+            "questions": [
+                "Omuz ağrınızın türü nedir?",
+                "Ağrınız ne zaman kötüleşiyor?",
+                "Başka belirtileriniz var mı?"
+            ],
+            "answers": [
+                "Keskin veya şiddetli",
+                "Aşırı kullanım veya zorlanma ile",
+                "Yok"
+            ],
+            "disease": "Bursit"
+        }   
+    ],
+    "nefes_darligi": [
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "Problem ne zaman başladı?",
+                "Problem ne sıklıkla oluyor?",
+                "Problem ne kadar sürüyor?",
+                "Göğüs ağrısı veya sıkışma var mı?",
+                "Baş ağrısı var mı?",
+                "Mide bulantısı var mı?",
+                "Terleme var mı?",
+                "Titreme var mı?",
+                "Kaygı veya stres ile tetikleniyor mu?",
+                "Baş dönmesi veya bayılma var mı?",
+                "Düzensiz veya hızlı kalp atışı var mı?",
+                "Başka belirtiler var mı?"
+            ],
+            "answers": [
+                "Panik atak",
+                "Yeni veya yakın zamanda",
+                "Devam eden veya tekrar eden",
+                "Kısa süreli",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Yok"
+            ],
+            "disease": "Panik Atak"
+        },
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "Problem ne zaman başladı?",
+                "Problem ne sıklıkla oluyor?",
+                "Problem ne kadar sürüyor?",
+                "Göğüs ağrısı veya sıkışma var mı?",
+                "Kuru öksürük var mı?",
+                "Ateş veya üşüme var mı?",
+                "Baş ağrısı var mı?",
+                "Terleme var mı?",
+                "Üst solunum yolu hastalığı ile başlamış mı?",
+                "Sputum üreten öksürük var mı?",
+                "Yorgunluk veya zayıflık var mı?",
+                "Başka belirtiler var mı?"
+            ],
+            "answers": [
+                "Pnömoni (Zatürre)",
+                "Yeni veya yakın zamanda",
+                "Yeni veya yakın zamanda",
+                "Kısa süreli",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Yok"
+            ],
+            "disease": "Pnömoni (Zatürre)"
+        },
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "Problem ne zaman başladı?",
+                "Problem ne sıklıkla oluyor?",
+                "Problem ne kadar sürüyor?",
+                "Göğüs ağrısı veya sıkışma var mı?",
+                "Baş ağrısı var mı?",
+                "Ciltte solgunluk veya maviye çalma var mı?",
+                "Hafif ila orta düzeyde egzersiz ile tetikleniyor mu?",
+                "Baş dönmesi veya bayılma var mı?",
+                "Yorgunluk veya zayıflık var mı?",
+                "Düzensiz veya hızlı kalp atışı var mı?",
+                "Başka belirtiler var mı?"
+            ],
+            "answers": [
+                "Anemi",
+                "Yeni veya yakın zamanda",
+                "Sürekli veya tekrar eden",
+                "Uzun süreli",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Yok"
+            ],
+            "disease": "Anemi"
+        },
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "Problem ne zaman başladı?",
+                "Problem ne sıklıkla oluyor?",
+                "Problem ne kadar sürüyor?",
+                "Sigara içmekle tetikleniyor mu?",
+                "Göğüs ağrısı veya sıkışma var mı?",
+                "Kuru öksürük var mı?",
+                "Üst solunum yolu hastalığı ile başlamış mı?",
+                "Alerjenler veya tahriş ediciler ile tetikleniyor mu?",
+                "Soğuk havaya maruz kalma ile tetikleniyor mu?",
+                "Hafif ila orta düzeyde egzersiz ile tetikleniyor mu?",
+                "Hırıltı var mı?",
+                "Başka belirtiler var mı?"
+            ],
+            "answers": [
+                "Astım",
+                "Yeni veya yakın zamanda",
+                "Sürekli veya tekrar eden",
+                "Uzun süreli",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Yok"
+            ],
+            "disease": "Astım"
+        },
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "Problem ne zaman başladı?",
+                "Problem ne sıklıkla oluyor?",
+                "Problem ne kadar sürüyor?",
+                "Sigara içmekle tetikleniyor mu?",
+                "Göğüs ağrısı veya sıkışma var mı?",
+                "Ateş veya titreme var mı?",
+                "Üst solunum yolu hastalığı ile başlamış mı?",
+                "Hafif ila orta düzeyde egzersiz ile tetikleniyor mu?",
+                "Balgam üreten öksürük var mı?",
+                "Yorgunluk veya zayıflık var mı?",
+                "Hırıltı var mı?",
+                "Başka belirtiler var mı?"
+            ],
+            "answers": [
+                "Bronşit",
+                "Yeni veya yakın zamanda",
+                "Sürekli veya tekrar eden",
+                "Uzun süreli",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Yok"
+            ],
+            "disease": "Bronşit"
+        },
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "Problem ne zaman başladı?",
+                "Problem ne sıklıkla oluyor?",
+                "Problem ne kadar sürüyor?",
+                "Sigara içmekle tetikleniyor mu?",
+                "Göğüs ağrısı veya sıkışma var mı?",
+                "Kuru öksürük var mı?",
+                "Hafif ila orta düzeyde egzersiz ile tetikleniyor mu?",
+                "Yorgunluk veya zayıflık var mı?",
+                "Hırıltı var mı?",
+                "Başka belirtiler var mı?"
+            ],
+            "answers": [
+                "Amfizem",
+                "Uzun zaman önce",
+                "Sürekli veya tekrar eden",
+                "Uzun süreli",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Yok"
+            ],
+            "disease": "Amfizem"
+        },
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "Problem ne zaman başladı?",
+                "Problem ne sıklıkla oluyor?",
+                "Problem ne kadar sürüyor?",
+                "Öksürme, hapşırma veya derin nefes alma ile tetikleniyor mu?",
+                "Göğüs ağrısı veya sıkışma var mı?",
+                "Kuru öksürük var mı?",
+                "Üst solunum yolu hastalığı ile başlamış mı?",
+                "Başka belirtiler var mı?"
+            ],
+            "answers": [
+                "Plörezi",
+                "Yeni veya yakın zamanda",
+                "Sürekli veya tekrar eden",
+                "Uzun süreli",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Yok"
+            ],
+            "disease": "Plörezi"
+        },
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "Problem ne zaman başladı?",
+                "Problem ne sıklıkla oluyor?",
+                "Problem ne kadar sürüyor?",
+                "Göğüs ağrısı veya sıkışma var mı?",
+                "Mide bulantısı var mı?",
+                "Terleme var mı?",
+                "Baş dönmesi veya bayılma var mı?",
+                "Yorgunluk veya zayıflık var mı?",
+                "Düzensiz veya hızlı kalp atışı var mı?",
+                "Başka belirtiler var mı?"
+            ],
+            "answers": [
+                "Kalp Krizi",
+                "Yeni veya yakın zamanda",
+                "Yeni veya yakın zamanda",
+                "Kısa süreli",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Yok"
+            ],
+            "disease": "Kalp Krizi"
+        },
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "Problem ne zaman başladı?",
+                "Problem ne sıklıkla oluyor?",
+                "Problem ne kadar sürüyor?",
+                "Göğüs ağrısı veya sıkışma var mı?",
+                "Kuru öksürük var mı?",
+                "Hafif ila orta düzeyde egzersiz ile tetikleniyor mu?",
+                "Hırıltı var mı?",
+                "Başka belirtiler var mı?"
+            ],
+            "answers": [
+                "İnterstisyel Akciğer Hastalığı",
+                "Yeni veya yakın zamanda",
+                "Devam eden veya tekrarlayan",
+                "Uzun süreli",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Yok"
+            ],
+            "disease": "İnterstisyel Akciğer Hastalığı"
+        },
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "Problem ne zaman başladı?",
+                "Problem ne sıklıkla oluyor?",
+                "Problem ne kadar sürüyor?",
+                "Göğüs ağrısı veya sıkışma var mı?",
+                "Ciltte solukluk veya mavi renklenme var mı?",
+                "Terleme var mı?",
+                "Kanlı öksürük var mı?",
+                "Sputum (balgam) üreten öksürük var mı?",
+                "Baş dönmesi veya bayılma var mı?",
+                "Düzensiz veya hızlı kalp atışı var mı?",
+                "Bacaklarda, bileklerde ve ayaklarda şişlik var mı?",
+                "Hırıltı var mı?",
+                "Başka belirtiler var mı?"
+            ],
+            "answers": [
+                "Akciğer Embolisi (Pulmoner Emboli)",
+                "Yeni veya yakın zamanda",
+                "Yeni veya yakın zamanda",
+                "Kısa süreli",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Yok"
+            ],
+            "disease": "Akciğer Embolisi (Pulmoner Emboli)"
+        },
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "Problem ne zaman başladı?",
+                "Problem ne sıklıkla oluyor?",
+                "Problem ne kadar sürüyor?",
+                "Göğüs ağrısı veya sıkışma var mı?",
+                "Ciltte solukluk veya mavi renklenme var mı?",
+                "Baş dönmesi veya bayılma var mı?",
+                "Yorgunluk veya zayıflık var mı?",
+                "Düzensiz veya hızlı kalp atışı var mı?",
+                "Bacaklarda, bileklerde ve ayaklarda şişlik var mı?",
+                "Hafif ila orta dereceli egzersiz ile tetikleniyor mu?",
+                "Başka belirtiler var mı?"
+            ],
+            "answers": [
+                "Pulmoner Hipertansiyon",
+                "Uzun zaman önce",
+                "Sürekli veya tekrar eden",
+                "Uzun süreli",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Yok"
+            ],
+            "disease": "Pulmoner Hipertansiyon"
+        },
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "Problem ne zaman başladı?",
+                "Problem ne sıklıkla oluyor?",
+                "Problem ne kadar sürüyor?",
+                "Göğüs ağrısı veya sıkışma var mı?",
+                "Anksiyete veya stres ile tetikleniyor mu?",
+                "Hafif ila orta dereceli egzersiz ile tetikleniyor mu?",
+                "Yorgunluk veya zayıflık var mı?",
+                "Başka belirtiler var mı?"
+            ],
+            "answers": [
+                "Koroner Arter Hastalığı",
+                "Yeni veya yakın zamanda",
+                "Sürekli veya tekrar eden",
+                "Uzun süreli",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Yok"
+            ],
+            "disease": "Koroner Arter Hastalığı"
+        },
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "Problem ne zaman başladı?",
+                "Problem ne sıklıkla oluyor?",
+                "Problem ne kadar sürüyor?",
+                "Göğüs ağrısı veya sıkışma var mı?",
+                "Hafif ila orta dereceli egzersiz ile tetikleniyor mu?",
+                "Balgam üreten öksürük var mı?",
+                "Yorgunluk veya zayıflık var mı?",
+                "Düzensiz veya hızlı kalp atışı var mı?",
+                "Hızlı kilo artışı var mı?",
+                "Bacaklarda, ayak bileklerinde ve ayaklarda şişlik var mı?",
+                "Hırıltılı solunum var mı?",
+                "Başka belirtiler var mı?"
+            ],
+            "answers": [
+                "Kalp Yetmezliği",
+                "Uzun zaman önce",
+                "Sürekli veya tekrar eden",
+                "Uzun süreli",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Yok"
+            ],
+            "disease": "Kalp Yetmezliği"
+        },
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "Problem ne zaman başladı?",
+                "Problem ne sıklıkla oluyor?",
+                "Problem ne kadar sürüyor?",
+                "Öncesinde travma veya yaralanma yaşanmış mı?",
+                "Göğüs ağrısı veya sıkışma var mı?",
+                "Üst solunum yolu hastalığı ile başlamış mı?",
+                "Düzensiz veya hızlı kalp atışı var mı?",
+                "Başka belirtiler var mı?"
+            ],
+            "answers": [
+                "Pnömotoraks",
+                "Yeni veya yakın zamanda",
+                "Yeni veya yakın zamanda",
+                "Kısa süreli",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Yok"
+            ],
+            "disease": "Pnömotoraks"
+        }     
+    ],
+    "ayak_bilek": [
+        {
+            "questions": [
+                "Nerede ağrı hissediyorsunuz?",
+                "Ağrı ne zaman başlıyor?",
+                "Ağrı ne zaman kötüleşiyor?",
+                "Ağrı ne zaman iyiye gidiyor?",
+                "Ağrı ile birlikte başka belirtileriniz var mı?"
+            ],
+            "answers": [
+                "Bilek",
+                "Morluk",
+                "Yaralanma",
+                "Yok",
+                "Morluk"
+            ],
+            "disease": "Morarma"
+        },
+        {
+            "questions": [
+                "Nerede ağrı hissediyorsunuz?",
+                "Ağrı ne zaman başlıyor?",
+                "Ağrı ne zaman kötüleşiyor?",
+                "Ağrı ne zaman iyiye gidiyor?",
+                "Ağrı ile birlikte başka belirtileriniz var mı?"
+            ],
+            "answers": [
+                "Bilek",
+                "Aktivite",
+                "Aktivite",
+                "Uzun süreli dinlenme",
+                "Sertlik, Şişlik"
+            ],
+            "disease": "Osteoartrit"
+        },
+        {
+            "questions": [
+                "Nerede ağrı hissediyorsunuz?",
+                "Ağrı ne zaman başlıyor?",
+                "Ağrı ne zaman kötüleşiyor?",
+                "Ağrı ne zaman iyiye gidiyor?",
+                "Ağrı ile birlikte başka belirtileriniz var mı?"
+            ],
+            "answers": [
+                "Bilek",
+                "Aktivite",
+                "Aktivite",
+                "Yok",
+                "Şişlik"
+            ],
+            "disease": "Stres Kırığı"
+        },
+        {
+            "questions": [
+                "Nerede ağrı hissediyorsunuz?",
+                "Ağrı ne zaman başlıyor?",
+                "Ağrı ne zaman kötüleşiyor?",
+                "Ağrı ne zaman iyiye gidiyor?",
+                "Ağrı ile birlikte başka belirtileriniz var mı?"
+            ],
+            "answers": [
+                "Bileğin arkası",
+                "Aktivite",
+                "Aktivite",
+                "Uzun süreli dinlenme",
+                "Parmaklarla itme zorluğu, Sertlik, Şişlik"
+            ],
+            "disease": "Aşil Tendiniti"
+        },
+        {
+            "questions": [
+                "Nerede ağrı hissediyorsunuz?",
+                "Ağrı ne zaman başlıyor?",
+                "Ağrı ne zaman kötüleşiyor?",
+                "Ağrı ne zaman iyiye gidiyor?",
+                "Ağrı ile birlikte başka belirtileriniz var mı?"
+            ],
+            "answers": [
+                "Bileğin arkası",
+                "Aktivite",
+                "Aktivite",
+                "Yok",
+                "Parmaklarla itme zorluğu, Ağırlık taşıyamama, Sertlik, Şişlik"
+            ],
+            "disease": "Aşil Tendon Rüptürü"
+        },
+        {
+            "questions": [
+                "Nerede ağrı hissediyorsunuz?",
+                "Ağrı ne zaman başlıyor?",
+                "Ağrı ne zaman kötüleşiyor?",
+                "Ağrı ne zaman iyiye gidiyor?",
+                "Ağrı ile birlikte başka belirtileriniz var mı?"
+            ],
+            "answers": [
+                "Bilek",
+                "Yaralanma",
+                "Yok",
+                "Yok",
+                "Dengesizlik hissi, Ağırlık taşıyamama, Eklem deformitesi, Uyuşma veya karıncalanma, Kızarıklık, Şişlik"
+            ],
+            "disease": "Ayak Kırığı"
+        },
+        {
+            "questions": [
+                "Nerede ağrı hissediyorsunuz?",
+                "Ağrı ne zaman başlıyor?",
+                "Ağrı ne zaman kötüleşiyor?",
+                "Ağrı ne zaman iyiye gidiyor?",
+                "Ağrı ile birlikte başka belirtileriniz var mı?"
+            ],
+            "answers": [
+                "Ayak parmakları veya ayak ön kısmı",
+                "Aktivite",
+                "Aktivite",
+                "Yok",
+                "Eklem deformitesi, Kızarıklık, Şişlik, Kalınlaşmış veya pürüzlü deri"
+            ],
+            "disease": "Bunyondan"
+        },
+        {
+            "questions": [
+                "Nerede ağrı hissediyorsunuz?",
+                "Ağrı ne zaman başlıyor?",
+                "Ağrı ne zaman kötüleşiyor?",
+                "Ağrı ne zaman iyiye gidiyor?",
+                "Ağrı ile birlikte başka belirtileriniz var mı?"
+            ],
+            "answers": [
+                "Topuk",
+                "Aktivite",
+                "Aktivite",
+                "Yok",
+                "Kızarıklık, Sertlik, Şişlik"
+            ],
+            "disease": "Bursit"
+        },
+        {
+            "questions": [
+                "Nerede ağrı hissediyorsunuz?",
+                "Ağrı ne zaman başlıyor?",
+                "Ağrı ne zaman kötüleşiyor?",
+                "Ağrı ne zaman iyiye gidiyor?",
+                "Ağrı ile birlikte başka belirtileriniz var mı?"
+            ],
+            "answers": [
+                "Topuk",
+                "Aktivite",
+                "Aktivite",
+                "Yok",
+                "Kalınlaşmış veya pürüzlü deri"
+            ],
+            "disease": "Corn ve Callus Nasırları"
+        },
+        {
+            "questions": [
+                "Nerede ağrı hissediyorsunuz?",
+                "Ağrı ne zaman başlıyor?",
+                "Ağrı ne zaman kötüleşiyor?",
+                "Ağrı ne zaman iyiye gidiyor?",
+                "Ağrı ile birlikte başka belirtileriniz var mı?"
+            ],
+            "answers": [
+                "Bilek",
+                "Yok",
+                "Uzun süreli dinlenme",
+                "Yok",
+                "Kızarıklık, Şişlik"
+            ],
+            "disease": "Gut Hastalığı"
+        },
+        {
+            "questions": [
+                "Nerede ağrı hissediyorsunuz?",
+                "Ağrı ne zaman başlıyor?",
+                "Ağrı ne zaman kötüleşiyor?",
+                "Ağrı ne zaman iyiye gidiyor?",
+                "Ağrı ile birlikte başka belirtileriniz var mı?"
+            ],
+            "answers": [
+                "Bilek",
+                "Yok",
+                "Yok",
+                "Yok",
+                "Yanma, Uyuşma veya karıncalanma, Zayıflık"
+            ],
+            "disease": "Periferal Nöropati"
+        },
+        {
+            "questions": [
+                "Nerede ağrı hissediyorsunuz?",
+                "Ağrı ne zaman başlıyor?",
+                "Ağrı ne zaman kötüleşiyor?",
+                "Ağrı ne zaman iyiye gidiyor?",
+                "Ağrı ile birlikte başka belirtileriniz var mı?"
+            ],
+            "answers": [
+                "Bilek",
+                "Yok",
+                "Uzun süreli dinlenme",
+                "Yok",
+                "Eklem deformitesi, Sertlik, Şişlik"
+            ],
+            "disease": "Romatoid Artrit"
+        },
+        {
+            "questions": [
+                "Nerede ağrı hissediyorsunuz?",
+                "Ağrı ne zaman başlıyor?",
+                "Ağrı ne zaman kötüleşiyor?",
+                "Ağrı ne zaman iyiye gidiyor?",
+                "Ağrı ile birlikte başka belirtileriniz var mı?"
+            ],
+            "answers": [
+                "Bilek",
+                "Yaralanma",
+                "Yok",
+                "Yok",
+                "Dengesizlik hissi, Ağırlık taşıyamama, Kızarıklık, Şişlik"
+            ],
+            "disease": "Burkulma"
+        }
+    ],
+    "baş_ağrısı": [
+        {
+            "questions": [
+                "Baş ağrınızın şiddeti nasıl?",
+                "Baş ağrınız nasıl başlıyor?",
+                "Baş ağrınız ne kadar sürüyor?",
+                "Baş ağrınız ne zaman kötüleşiyor?",
+                "Baş ağrınız nasıl rahatlıyor?",
+                "Baş ağrınızın niteliği nasıl?",
+                "Baş ağrınız nerede?",
+                "Baş ağrınız başlamadan önce herhangi bir görsel veya duyusal bozukluk yaşıyor musunuz?",
+                "Baş ağrınız aniden mi başlıyor?",
+                "Günlük aktiviteler baş ağrınızı tetikliyor mu?",
+                "Hormonal değişiklikler baş ağrınızı tetikliyor mu?",
+                "Stres baş ağrınızı tetikliyor mu?",
+                "Reçetesiz ağrı kesici ilaçlar baş ağrınızı rahatlatıyor mu?",
+                "Dinlenme baş ağrınızı rahatlatıyor mu?",
+                "Baş ağrınızla birlikte başka belirtileriniz var mı?"
+            ],
+            "answers": [
+                "Şiddetli",
+                "Yavaş yavaş",
+                "Birkaç saatten günlere",
+                "Uyku düzenindeki değişiklikler",
+                "Karanlıkta uzanarak",
+                "Orta ila şiddetli",
+                "Başınızın her iki tarafı",
+                "Evet",
+                "Hayır",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Mide bulantısı veya kusma, Işığa veya gürültüye karşı hassasiyet"
+            ],
+            "disease": "Migren"
+        },
+        {
+            "questions": [
+                "Baş ağrınızın şiddeti nasıl?",
+                "Baş ağrınız nasıl başlıyor?",
+                "Baş ağrınızın tekrarları ne zaman daha sıklaşıyor?",
+                "Başka belirtileriniz var mı?"
+            ],
+            "answers": [
+                "Orta ila şiddetli",
+                "Yavaş yavaş",
+                "Yavaş yavaş",
+                "Kişilik, davranışlar veya zihinsel durum değişikliği, Orgazm ile tetiklenir veya kötüleşir, Karışıklık, Konuşma zorluğu, Mide bulantısı veya kusma, Sürekli zayıflık veya uyuşma, Görme problemleri"
+            ],
+            "disease": "Beyin Tümörü"
+        },
+        {
+            "questions": [
+                "Baş ağrınızın şiddeti nasıl?",
+                "Baş ağrınız nerede?",
+                "Baş ağrınızın niteliği nasıl?",
+                "Baş ağrınız nasıl başlıyor?",
+                "Baş ağrınız ne kadar sürüyor?",
+                "Baş ağrınızın tekrarları ne sıklıkta?",
+                "Baş ağrınızın tekrarları ne zaman oluyor?",
+                "Başka belirtileriniz var mı?"
+            ],
+            "answers": [
+                "Şiddetli",
+                "Bir göz çevresinde veya bir gözden yayılır",
+                "Batıcı veya yanıcı",
+                "Aniden",
+                "Birkaç dakikadan saate",
+                "Gündelik",
+                "Genellikle her gün aynı saatte",
+                "Mide bulantısı veya kusma, Huzursuzluk veya ajitasyon, Burun akıntısı veya tıkanıklığı, Işığa veya gürültüye karşı hassasiyet"
+            ],
+            "disease": "Küme Baş Ağrısı"
+        },
+        {
+            "questions": [
+                "Baş ağrınız nasıl başlıyor?",
+                "Başka belirtileriniz var mı?"
+            ],
+            "answers": [
+                "Yavaş yavaş",
+                "Kişilik, davranışlar veya zihinsel durum değişikliği, Orta ila şiddetli ağrı, Reçetesiz ağrı kesici ilaçlarla rahatlar, Dinlenme ile rahatlar, Karışıklık, Ateş, Kas veya eklem ağrıları, Mide bulantısı veya kusma, Sürekli zayıflık veya uyuşma, Nöbetler, Görme problemleri"
+            ],
+            "disease": "Ensefalit"
+        },
+        {
+            "questions": [
+                "Baş ağrınız nasıl başlıyor?",
+                "Başka belirtileriniz var mı?"
+            ],
+            "answers": [
+                "Yavaş yavaş",
+                "Kişilik, davranışlar veya zihinsel durum değişikliği, Orta ila şiddetli ağrı, Reçetesiz ağrı kesici ilaçlarla rahatlar, Dinlenme ile rahatlar, Karışıklık, Ateş, Mide bulantısı veya kusma, Nöbetler, Işığa veya gürültüye karşı hassasiyet, Sert boyun"
+            ],
+            "disease": "Menenjit"
+        },
+        {
+            "questions": [
+                "Başka belirtileriniz var mı?"
+            ],
+            "answers": [
+                "Kişilik, davranışlar veya zihinsel durum değişikliği, Hafif ila orta düzeyde ağrı, Baş yaralanması veya düşmeden önce başlıyor, Karışıklık, Konuşma zorluğu, Baş dönmesi, Hafıza kaybı veya unutkanlık, Mide bulantısı veya kusma"
+            ],
+            "disease": "Beyin Sarsıntısı"
+        }
+    ],
+    "ellerde_uyusma_karincalanma": [
+        {
+            "questions": [
+                "El veya bileğinizde ne tür bir sorun yaşıyorsunuz?",
+                "Bu sorun hangi elinizi etkiliyor?",
+                "Sorun ne zaman daha kötüleşiyor?",
+                "Sorun ne kadar süredir devam ediyor?",
+                "Başka belirtileriniz var mı?"
+            ],
+            "answers": [
+                "Uyuşma veya karıncalanma",
+                "Her iki el",
+                "Tekrarlayan kullanım, Uzun süre aynı pozisyonda kalma",
+                "Yavaş yavaş başladı",
+                "Kol veya elde ağrı, Yanma ağrısı, Uyuşma veya karıncalanma parmakları veya eli etkiliyor, Uyuşma veya karıncalanma geceleri uykudan uyandırıyor, Kol veya elde zayıflık"
+            ],
+            "disease": "Karpal Tünel Sendromu"
+        },
+        {
+            "questions": [
+                "El veya bileğinizde ne tür bir sorun yaşıyorsunuz?",
+                "Bu sorun hangi elinizi etkiliyor?",
+                "Sorun ne zaman daha kötüleşiyor?",
+                "Sorun ne kadar süredir devam ediyor?",
+                "Başka belirtileriniz var mı?"
+            ],
+            "answers": [
+                "Uyuşma veya karıncalanma",
+                "Bir el",
+                "Uyku",
+                "Yavaş yavaş başladı",
+                "Etkilenen bölgede kas zayıflığı, Keskin, ağrıyan veya yanma hissi, Sık sık bir ayak veya elin 'uyuduğu' hissi, Sinir tarafından sağlanan bölgede uyuşma veya azalmış duyarlılık, Karıncalanma, iğnelenme hissi (parestezi)"
+            ],
+            "disease": "Sinir Sıkışması"
+        },
+        {
+            "questions": [
+                "El veya bileğinizde ne tür bir sorun yaşıyorsunuz?",
+                "Bu sorun hangi elinizi etkiliyor?",
+                "Sorun ne zaman daha kötüleşiyor?",
+                "Sorun ne kadar süredir devam ediyor?",
+                "Başka belirtileriniz var mı?"
+            ],
+            "answers": [
+                "Uyuşma veya karıncalanma",
+                "Her iki el",
+                "Yavaş yavaş başladı",
+                "Yavaş yavaş başladı",
+                "Koordinasyon eksikliği ve düşme, Keskin, batma, zonklama, donma veya yanma ağrısı, Dokunuşa karşı aşırı hassasiyet, Ayaklarda veya ellere yavaş yavaş başlayan, karıncalanma veya iğnelenme hissi, bu hissin yukarıya doğru bacaklar ve kollara yayılması, Kas zayıflığı veya felç"
+            ],
+            "disease": "Periferal Nöropati"
+        }
+    ],
+    "mide_bulantisi_kusma":[
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "Alkol tüketimiyle tetikleniyor veya kötüleşiyor mu?",
+                "Başlangıç aralıklı veya dönemsel mi?",
+                "Karın şişkinliği veya şişliğiyle birlikte mi oluyor?",
+                "Belirli yiyeceklerin tüketimiyle tetikleniyor veya kötüleşiyor mu?",
+                "Başlangıç yakın zamanda (saatten güne kadar) mı?",
+                "Karın ağrısı, rahatsızlık veya kramp ile birlikte mi oluyor?",
+                "Küçük miktarlarda yemek yedikten sonra doluluk hissi ile birlikte mi oluyor?",
+                "İstenmeyen kilo kaybı ile birlikte mi oluyor?"
+            ],
+            "answers": [
+                "Gastrit",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet"
+            ],
+            "disease": "Gastrit"
+        },
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "Başlangıç aralıklı veya dönemsel mi?",
+                "Karın şişkinliği veya şişliğiyle birlikte mi oluyor?",
+                "Küçük miktarlarda yemek yedikten sonra doluluk hissi ile birlikte mi oluyor?",
+                "Mide ekşimesiyle birlikte mi oluyor?",
+                "İstenmeyen kilo kaybı ile birlikte mi oluyor?"
+            ],
+            "answers": [
+                "Gastroparezi",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet"
+            ],
+            "disease": "Gastroparezi"
+        },
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "Başlangıç aralıklı veya dönemsel mi?",
+                "Karın şişkinliği veya şişliğiyle birlikte mi oluyor?",
+                "Başlangıç yakın zamanda (saatten güne kadar) mı?",
+                "Karın ağrısı, rahatsızlık veya kramp ile birlikte mi oluyor?",
+                "Kabızlık ile birlikte mi oluyor?",
+                "İshal ile birlikte mi oluyor?"
+            ],
+            "answers": [
+                "İntestinal Obstrüksiyon",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet"
+            ],
+            "disease": "İntestinal Obstrüksiyon"
+        },
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "Alkol tüketimiyle tetikleniyor veya kötüleşiyor mu?",
+                "Başlangıç aralıklı veya dönemsel mi?",
+                "Belirli yiyeceklerin tüketimiyle tetikleniyor veya kötüleşiyor mu?",
+                "Stres ile tetikleniyor veya kötüleşiyor mu?",
+                "Karın ağrısı, rahatsızlık veya kramp ile birlikte mi oluyor?",
+                "Siyah veya kanlı dışkı ile birlikte mi oluyor?",
+                "İstenmeyen kilo kaybı ile birlikte mi oluyor?"
+            ],
+            "answers": [
+                "Peptik Ülser",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet"
+            ],
+            "disease": "Peptik Ülser"
+        },
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "Karın şişkinliği veya şişliğiyle birlikte mi oluyor?",
+                "Belirli yiyeceklerin tüketimiyle tetikleniyor veya kötüleşiyor mu?",
+                "Başlangıç yakın zamanda (birkaç saat içinde) mı?",
+                "Karın ağrısı, rahatsızlık veya kramp ile birlikte mi oluyor?",
+                "İshal ile birlikte mi oluyor?",
+                "Ateş ile birlikte mi oluyor?"
+            ],
+            "answers": [
+                "Gıda Zehirlenmesi",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet"
+            ],
+            "disease": "Gıda Zehirlenmesi"
+        },
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "Başlangıç aralıklı veya dönemsel mi?",
+                "Seyahat veya hareket ile tetikleniyor veya kötüleşiyor mu?",
+                "Başlangıç anidir (dakikalar ila saatler içinde) mi?",
+                "Baş dönmesi veya bayılma ile birlikte mi oluyor?"
+            ],
+            "answers": [
+                "Taşıt Tutması",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet"
+            ],
+            "disease": "Taşıt Tutması"
+        },
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "Göğüs ağrısı veya sıkışması ile birlikte mi oluyor?",
+                "Baş dönmesi veya bayılma ile birlikte mi oluyor?",
+                "Terleme ile birlikte mi oluyor?",
+                "Başlangıç anidir (dakikalar ila saatler içinde) mi?",
+                "Nefes almanın zorluğu ile birlikte mi oluyor?",
+                "Düzensiz veya hızlı kalp atışı ile birlikte mi oluyor?"
+            ],
+            "answers": [
+                "Kalp Krizi",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet"
+            ],
+            "disease": "Kalp Krizi"
+        },
+        {
+            "questions": [
+                "Probleminiz nedir?",
+                "Stres ile tetikleniyor veya kötüleşiyor mu?",
+                "Baş dönmesi veya bayılma ile birlikte mi oluyor?",
+                "Baş ağrısı ile birlikte mi oluyor?",
+                "Terleme ile birlikte mi oluyor?",
+                "Başlangıç anidir (dakikalar ila saatler içinde) mi?",
+                "Anksiyete ile birlikte mi oluyor?",
+                "Nefes almanın zorluğu ile birlikte mi oluyor?",
+                "Düzensiz veya hızlı kalp atışı ile birlikte mi oluyor?"
+            ],
+            "answers": [
+                "Panik Atak",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet"
+            ],
+            "disease": "Panik Atak"
+        }
+    ],
+    "yutma_zorlugu":[
+        {
+            "questions": [
+                "Yutmada ağrı hissediyor musunuz?",
+                "Yutkunurken zorlanıyor musunuz?",
+                "Dişlerinizde gevşeklik veya diş protezleri ile ilgili bir sorun var mı?",
+                "Ağzınızda yaralar, şişlikler veya ağrı var mı?",
+                "Boğazınızda bir şey takılıymış gibi hissediyor musunuz?",
+                "Çenenizde ağrı veya sertlik hissediyor musunuz?",
+                "Boğazınızda ağrı var mı?",
+                "Başka belirtileriniz var mı?"
+            ],
+            "answers": [
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Yutkunurken zorlanıyorum"
+            ],
+            "disease": "Ağız Kanseri"
+        },
+        {
+            "questions": [
+                "Ağzınız kurumuş gibi hissediyor musunuz?",
+                "Ağzınızda kötü bir koku var mı?",
+                "Yutkunurken zorlanıyor musunuz?",
+                "Sesiniz kısık mı veya konuşmakta zorluk mu çekiyorsunuz?",
+                "Boğazınızda ağrı var mı?",
+                "Tükürüğünüzün kıvamı kalın mı?",
+                "Başka belirtileriniz var mı?"
+            ],
+            "answers": [
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Ağzım kurumuş gibi hissediyorum"
+            ],
+            "disease": "Ağız Kuruluğu"
+        },
+        {
+            "questions": [
+                "Yutmada ağrı hissediyor musunuz?",
+                "Yutkunurken zorlanıyor musunuz?",
+                "Öksürük geçiriyor musunuz?",
+                "Sesiniz kısık mı veya konuşmakta zorluk mu çekiyorsunuz?",
+                "Göğsünüzde veya sırtınızda ağrı var mı?",
+                "Yiyecek veya ekşi sıvı geri geliyor mu?",
+                "İstenmeyen kilo kaybı yaşıyor musunuz?",
+                "Başka belirtileriniz var mı?"
+            ],
+            "answers": [
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Yutkunurken zorlanıyorum"
+            ],
+            "disease": "Özofagus Kanseri"
+        },
+        {
+            "questions": [
+                "Yutmada ağrı hissediyor musunuz?",
+                "Yutkunurken zorlanıyor musunuz?",
+                "Öksürük geçiriyor musunuz?",
+                "Boğazınızda bir şey takılıymış gibi hissediyor musunuz?",
+                "Mide ekşimesi yaşıyor musunuz?",
+                "Sesiniz kısık mı veya konuşmakta zorluk mu çekiyorsunuz?",
+                "Göğsünüzde veya sırtınızda ağrı var mı?",
+                "Yiyecek veya ekşi sıvı geri geliyor mu?",
+                "Boğazınızda ağrı var mı?",
+                "Başka belirtileriniz var mı?"
+            ],
+            "answers": [
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Yutkunurken zorlanıyorum"
+            ],
+            "disease": "Gastroözefageal Reflü"
+        },
+        {
+            "questions": [
+                "Ağzınızda kötü bir koku var mı?",
+                "Yutkunurken zorlanıyor musunuz?",
+                "Öksürük geçiriyor musunuz?",
+                "Nefes almada zorluk çekiyor musunuz?",
+                "Kulağınızda ağrı var mı?",
+                "Boğazınızda bir şey takılıymış gibi hissediyor musunuz?",
+                "Boynunuzun ön kısmında şişlik var mı?",
+                "Boğazınızda ağrı var mı?",
+                "İstenmeyen kilo kaybı yaşıyor musunuz?",
+                "Başka belirtileriniz var mı?"
+            ],
+            "answers": [
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Evet",
+                "Yutkunurken zorlanıyorum"
+            ],
+            "disease": "Gırtlak Kanseri"
+        }
+    ],
+    "gögüs_agrisi":[
+        {
+            "questions": [
+                "Ağrınızın nasıl bir niteliği var?",
+                "Ağrı ne zaman başlıyor?",
+                "Ağrı ne zaman kötüleşiyor?",
+                "Ağrı ne zaman düzeliyor?",
+                "Başka belirtileriniz var mı?"
+            ],
+            "answers": [
+                "Ağrılı veya kemirici",
+                "Fiziksel efor ile",
+                "Fiziksel efor ile",
+                "Dinlenme ile",
+                "Kaygı, Nefes darlığı, Terleme, Açıklanamayan yorgunluk, Mide bulantısı veya kusma, Boyun, çene, kollar, omuzlar veya sırt ağrısı"
+            ],
+            "disease": "Angina"
+        },
+        {
+            "questions": [
+                "Probleminiz ne zaman başlıyor?",
+                "Problem ne zaman kötüleşiyor?",
+                "Başka belirtileriniz var mı?"
+            ],
+            "answers": [
+                "Sürekli veya tekrar eden",
+                "Alerjenler veya tahriş edici maddeler, Soğuk hava maruziyeti, Hafif ila orta düzeyde efor, Sigara içme",
+                "Kuru öksürük, Nefes darlığı, Hırıltı"
+            ],
+            "disease": "Astım"
+        },
+        {
+            "questions": [
+                "Ağrınızın nasıl bir niteliği var?",
+                "Ağrı ne zaman başlıyor?",
+                "Ağrı ne zaman düzeliyor?",
+                "Başka belirtileriniz var mı?"
+            ],
+            "answers": [
+                "Ağrılı veya kemirici, Yanıcı, Sıkı",
+                "Yeme veya içme, Uzun süre yatma",
+                "Antasitler",
+                "Geğirme, Zor veya ağrılı yutkunma"
+            ],
+            "disease": "Gastroözofageal Reflü"
+        },
+        {
+            "questions": [
+                "Ağrınızın nasıl bir niteliği var?",
+                "Ağrı ne zaman başlıyor?",
+                "Başka belirtileriniz var mı?"
+            ],
+            "answers": [
+                "Ağrılı veya kemirici",
+                "Göğüs duvarına baskı yapma, Derin nefes alma",
+                "Yok"
+            ],
+            "disease": "Kostokondrit"
+        },
+        {
+            "questions": [
+                "Ağrınızın nasıl bir niteliği var?",
+                "Ağrı ne zaman başlıyor?",
+                "Başka belirtileriniz var mı?"
+            ],
+            "answers": [
+                "Ağrılı veya kemirici, Yanıcı, Sıkıştırıcı veya baskı yapan, Sıkı",
+                "Yeme veya içme",
+                "Zor veya ağrılı yutkunma"
+            ],
+            "disease": "Özofageal Spazm"
+        },
+        {
+            "questions": [
+                "Ağrınızın nasıl bir niteliği var?",
+                "Ağrı ne zaman başlıyor?",
+                "Başka belirtileriniz var mı?"
+            ],
+            "answers": [
+                "Şiddetli, Sıkıştırıcı veya baskı yapan",
+                "Ani",
+                "Kaygı, Bayılma veya baş dönmesi, Mide bulantısı veya kusma, Boyun, çene, kollar, omuzlar veya sırt ağrısı, Hızlı veya düzensiz kalp atışı, Nefes darlığı, Terleme, Açıklanamayan yorgunluk"
+            ],
+            "disease": "Kalp Krizi"
+        },
+        {
+            "questions": [
+                "Ağrınızın nasıl bir niteliği var?",
+                "Ağrı ne zaman başlıyor?",
+                "Ağrı ne zaman düzeliyor?",
+                "Başka belirtileriniz var mı?"
+            ],
+            "answers": [
+                "Yanıcı",
+                "Yeme veya içme, Uzun süre yatma",
+                "Antasitler",
+                "Geğirme"
+            ],
+            "disease": "Mide Yanması"
+        },
+        {
+            "questions": [
+                "Ağrı ne zaman başlıyor?",
+                "Ağrı ne zaman kötüleşiyor?",
+                "Başka belirtileriniz var mı?"
+            ],
+            "answers": [
+                "Ani",
+                "Stres",
+                "Kaygı, Zor veya ağrılı yutkunma, Bayılma veya baş dönmesi, Baş ağrısı, Mide bulantısı veya kusma, Hızlı veya düzensiz kalp atışı, Nefes darlığı, Terleme"
+            ],
+            "disease": "Panik Atak"
+        },
+        {
+            "questions": [
+                "Ağrınızın nasıl bir niteliği var?",
+                "Ağrı ne zaman başlıyor?",
+                "Ağrı ne zaman düzeliyor?",
+                "Başka belirtileriniz var mı?"
+            ],
+            "answers": [
+                "Ağrılı veya kemirici, Keskin, Sıkıştırıcı veya baskı yapan",
+                "Derin nefes alma",
+                "Öne eğilerek",
+                "Kuru öksürük, Ateş, Nefes darlığı, Açıklanamayan yorgunluk"
+            ],
+            "disease": "Perikardit"
+        }
+    ],
+    "karin_agrisi":[
+        {
+            "questions": [
+                "Karın bölgenizde nasıl bir ağrı hissediyorsunuz?",
+                "Ağrı nerede yoğunlaşıyor?",
+                "Ağrı ne zaman başlıyor?",
+                "Ağrı ne kadar sürüyor?",
+                "Ağrı ne zaman kötüleşiyor veya iyileşiyor?",
+                "Başka hangi belirtilerle karşılaşıyorsunuz?"
+            ],
+            "answers": [
+                "Yanan tarzda ağrı",
+                "Karın bölgesinde, ancak vücudun diğer bölgelerine yayılıyor",
+                "Sürekli (kronik)",
+                "Ağrı aralıklı veya epizodik",
+                "Alkol tüketimi, Belirli yiyeceklerin yenmesi, Stres",
+                "Antasitlerle rahatlama sağlanıyor, Ağrı kemirici, Siyah veya kanlı dışkı, Bulantı veya kusma, İstenmeyen kilo kaybı"
+            ],
+            "disease": "Peptik Ülser"
+        },
+        {
+            "questions": [
+                "Karın bölgenizde nasıl bir ağrı hissediyorsunuz?",
+                "Ağrı nerede yoğunlaşıyor?",
+                "Ağrı ne zaman başlıyor?",
+                "Ağrı ne kadar sürüyor?",
+                "Ağrı ne zaman kötüleşiyor veya iyileşiyor?",
+                "Başka hangi belirtilerle karşılaşıyorsunuz?"
+            ],
+            "answers": [
+                "Ağrı öksürük veya diğer sarsıcı hareketlerle tetikleniyor veya kötüleşiyor",
+                "Alt karında, Orta karında",
+                "Ani (akut)",
+                "Sürekli",
+                "Yok",
+                "Karın şişliği, Ağrı kramp şeklinde, Ağrı donuk, Ağrı yoğun, Ağrı keskin, Kabızlık, İshal, Ateş, Bulantı veya kusma"
+            ],
+            "disease": "Apandisit"
+        },
+        {
+            "questions": [
+                "Karın bölgenizde nasıl bir ağrı hissediyorsunuz?",
+                "Ağrı nerede yoğunlaşıyor?",
+                "Ağrı ne zaman başlıyor?",
+                "Ağrı ne kadar sürüyor?",
+                "Ağrı ne zaman kötüleşiyor veya iyileşiyor?",
+                "Başka hangi belirtilerle karşılaşıyorsunuz?"
+            ],
+            "answers": [
+                "Yanan ağrı",
+                "Orta karında, Üst karında",
+                "Devam ediyor (kronik)",
+                "Ağrı aralıklı veya epizodik, Sürekli",
+                "Alkol tüketimi, Belirli yiyeceklerin yenmesi",
+                "Karın şişliği, Ağrı kemirici, Bulantı veya kusma, İstenmeyen kilo kaybı"
+            ],
+            "disease": "Gastrit"
+        },
+        {
+            "questions": [
+                "Karın bölgenizde nasıl bir ağrı hissediyorsunuz?",
+                "Ağrı nerede yoğunlaşıyor?",
+                "Ağrı ne zaman başlıyor?",
+                "Ağrı ne kadar sürüyor?",
+                "Ağrı ne zaman kötüleşiyor veya iyileşiyor?",
+                "Başka hangi belirtilerle karşılaşıyorsunuz?"
+            ],
+            "answers": [
+                "Yanan ağrı",
+                "Üst karında",
+                "Yok",
+                "Ağrı aralıklı veya epizodik, Sürekli",
+                "Stres, Belirli yiyeceklerin yenmesi",
+                "Antasitlerle rahatlama sağlanıyor, Ağrı kemirici, Bulantı veya kusma, Gaz çıkarmak"
+            ],
+            "disease": "Fonksiyonel Dispepsi"
+        },
+        {
+            "questions": [
+                "Karın bölgenizde nasıl bir ağrı hissediyorsunuz?",
+                "Ağrı nerede yoğunlaşıyor?",
+                "Ağrı ne zaman başlıyor?",
+                "Ağrı ne kadar sürüyor?",
+                "Ağrı ne zaman kötüleşiyor veya iyileşiyor?",
+                "Başka hangi belirtilerle karşılaşıyorsunuz?"
+            ],
+            "answers": [
+                "Ağrı karın bölgesinde bulunuyor, ancak vücudun diğer bölgelerine yayılıyor",
+                "Orta karında",
+                "Yok",
+                "Sürekli",
+                "Yok",
+                "Göbek çevresinde atma hissi"
+            ],
+            "disease": "Abdominal Aort Anevrizması"
+        },
+        {
+            "questions": [
+                "Karın bölgenizde nasıl bir ağrı hissediyorsunuz?",
+                "Ağrı nerede yoğunlaşıyor?",
+                "Ağrı ne zaman başlıyor?",
+                "Ağrı ne kadar sürüyor?",
+                "Ağrı ne zaman kötüleşiyor veya iyileşiyor?",
+                "Başka hangi belirtilerle karşılaşıyorsunuz?"
+            ],
+            "answers": [
+                "Ağrı kramp şeklinde",
+                "Yok",
+                "Devam ediyor (kronik)",
+                "Yok",
+                "Belirli yiyeceklerin yenmesi",
+                "Karın şişliği, Ağrı aralıklı veya epizodik, Sürekli, Belirli yiyeceklerden kaçınılmasıyla rahatlama sağlanıyor, İshal, Gaz çıkarmak, Döküntü, Mide guruldaması veya homurdanması, İstenmeyen kilo kaybı"
+            ],
+            "disease": "Çölyak Hastalığı"
+        },
+        {
+            "questions": [
+                "Karın bölgenizde nasıl bir ağrı hissediyorsunuz?",
+                "Ağrı nerede yoğunlaşıyor?",
+                "Ağrı ne zaman başlıyor?",
+                "Ağrı ne kadar sürüyor?",
+                "Ağrı ne zaman kötüleşiyor veya iyileşiyor?",
+                "Başka hangi belirtilerle karşılaşıyorsunuz?"
+            ],
+            "answers": [
+                "Ağrı kramp şeklinde, Ağrı yoğun",
+                "Üst karında",
+                "Yok",
+                "Ağrı aralıklı veya epizodik, Sürekli",
+                "Belirli yiyeceklerin tüketilmesi",
+                "Karın şişliği, Ateş, Bulantı veya kusma"
+            ],
+            "disease": "Kolesistit"
+        },
+        {
+            "questions": [
+                "Karın bölgenizde nasıl bir ağrı hissediyorsunuz?",
+                "Ağrı nerede yoğunlaşıyor?",
+                "Ağrı ne zaman başlıyor?",
+                "Ağrı ne kadar sürüyor?",
+                "Ağrı ne zaman kötüleşiyor veya iyileşiyor?",
+                "Başka hangi belirtilerle karşılaşıyorsunuz?"
+            ],
+            "answers": [
+                "Ağrı kramp şeklinde, Ağrı donuk",
+                "Üst karında",
+                "Yok",
+                "Ağrı aralıklı veya epizodik, Sürekli",
+                "Yok",
+                "Karın şişliği, Ağrı karın bölgesinde bulunuyor, ancak vücudun diğer bölgelerine yayılıyor, Siyah veya kanlı dışkı, Kabızlık, İshal, Ateş, Bulantı veya kusma, Döküntü, İstenmeyen kilo kaybı"
+            ],
+            "disease": "Crohn Hastalığı"
+        },
+        {
+            "questions": [
+                "Karın bölgenizde nasıl bir ağrı hissediyorsunuz?",
+                "Ağrı nerede yoğunlaşıyor?",
+                "Ağrı ne zaman başlıyor?",
+                "Ağrı ne kadar sürüyor?",
+                "Ağrı ne zaman kötüleşiyor veya iyileşiyor?",
+                "Başka hangi belirtilerle karşılaşıyorsunuz?"
+            ],
+            "answers": [
+                "Ağrı kramp şeklinde",
+                "Yok",
+                "Yok",
+                "Yok",
+                "Yok",
+                "Acil dışkılama ihtiyacı, Ateş, Gevşek, sulu dışkı"
+            ],
+            "disease": "İshal"
+        },
+        {
+            "questions": [
+                "Karın bölgenizde nasıl bir ağrı hissediyorsunuz?",
+                "Ağrı nerede yoğunlaşıyor?",
+                "Ağrı ne zaman başlıyor?",
+                "Ağrı ne kadar sürüyor?",
+                "Ağrı ne zaman kötüleşiyor veya iyileşiyor?",
+                "Başka hangi belirtilerle karşılaşıyorsunuz?"
+            ],
+            "answers": [
+                "Ağrı kramp şeklinde, Ağrı keskin",
+                "Yok",
+                "Ani (akut)",
+                "Ağrı aralıklı veya epizodik, Sürekli",
+                "Öksürme veya ani hareketlerle",
+                "Karın şişliği, Kabızlık, İshal, Ateş, Bulantı veya kusma"
+            ],
+            "disease": "Divertikülit"
+        },
+        {
+            "questions": [
+                "Karın bölgenizde nasıl bir ağrı hissediyorsunuz?",
+                "Ağrı nerede yoğunlaşıyor?",
+                "Ağrı ne zaman başlıyor?",
+                "Ağrı ne kadar sürüyor?",
+                "Ağrı ne zaman kötüleşiyor veya iyileşiyor?",
+                "Başka hangi belirtilerle karşılaşıyorsunuz?"
+            ],
+            "answers": [
+                "Ağrı kramp şeklinde",
+                "Yok",
+                "Ani (akut)",
+                "Yok",
+                "Belirli yiyeceklerin tüketilmesi",
+                "Karın şişliği, İshal, Ateş, Bulantı veya kusma"
+            ],
+            "disease": "Gıda Zehirlenmesi"
+        },
+        {
+            "questions": [
+                "Karın bölgenizde nasıl bir ağrı hissediyorsunuz?",
+                "Ağrı nerede yoğunlaşıyor?",
+                "Ağrı ne zaman başlıyor?",
+                "Ağrı ne kadar sürüyor?",
+                "Ağrı ne zaman kötüleşiyor veya iyileşiyor?",
+                "Başka hangi belirtilerle karşılaşıyorsunuz?"
+            ],
+            "answers": [
+                "Ağrı yoğun",
+                "Orta karında, Üst karında",
+                "Yok",
+                "Ağrı aralıklı veya epizodik, Sürekli",
+                "Belirli yiyeceklerin tüketilmesi",
+                "Ateş, Bulantı veya kusma"
+            ],
+            "disease": "Safra Taşı"
+        },
+        {
+            "questions": [
+                "Karın bölgenizde nasıl bir ağrı hissediyorsunuz?",
+                "Ağrı nerede yoğunlaşıyor?",
+                "Ağrı ne zaman başlıyor?",
+                "Ağrı ne kadar sürüyor?",
+                "Ağrı ne zaman kötüleşiyor veya iyileşiyor?",
+                "Başka hangi belirtilerle karşılaşıyorsunuz?"
+            ],
+            "answers": [
+                "Ağrı kramp şeklinde",
+                "Yok",
+                "Ani (akut)",
+                "Ağrı aralıklı veya epizodik, Sürekli",
+                "Yok",
+                "Karın şişliği, Kabızlık, İshal, Bulantı veya kusma"
+            ],
+            "disease": "İntestinal Obstrüksiyon"
+        },
+        {
+            "questions": [
+                "Karın bölgenizde nasıl bir ağrı hissediyorsunuz?",
+                "Ağrı nerede yoğunlaşıyor?",
+                "Ağrı ne zaman başlıyor?",
+                "Ağrı ne kadar sürüyor?",
+                "Ağrı ne zaman kötüleşiyor veya iyileşiyor?",
+                "Başka hangi belirtilerle karşılaşıyorsunuz?"
+            ],
+            "answers": [
+                "Ağrı kramp şeklinde",
+                "Yok",
+                "Devam ediyor (kronik)",
+                "Ağrı aralıklı veya epizodik, Sürekli",
+                "Belirli yiyeceklerin tüketilmesi, Stres",
+                "Karın şişliği, Kabızlık, İshal, Gaz çıkarma"
+            ],
+            "disease": "İrritabl Bağırsak Sendromu"
+        },
+        {
+            "questions": [
+                "Karın bölgenizde nasıl bir ağrı hissediyorsunuz?",
+                "Ağrı nerede yoğunlaşıyor?",
+                "Ağrı ne zaman başlıyor?",
+                "Ağrı ne kadar sürüyor?",
+                "Ağrı ne zaman kötüleşiyor veya iyileşiyor?",
+                "Başka hangi belirtilerle karşılaşıyorsunuz?"
+            ],
+            "answers": [
+                "Ağrı yoğun",
+                "Bir veya her iki tarafta",
+                "Ani (akut)",
+                "Yok",
+                "Yok",
+                "Bulantı veya kusma"
+            ],
+            "disease": "Böbrek Taşı"
+        },
+        {
+            "questions": [
+                "Karın bölgenizde nasıl bir ağrı hissediyorsunuz?",
+                "Ağrı nerede yoğunlaşıyor?",
+                "Ağrı ne zaman başlıyor?",
+                "Ağrı ne kadar sürüyor?",
+                "Ağrı ne zaman kötüleşiyor veya iyileşiyor?",
+                "Başka hangi belirtilerle karşılaşıyorsunuz?"
+            ],
+            "answers": [
+                "Ağrı kramp şeklinde, Ağrı donuk",
+                "Yok",
+                "Yok",
+                "Ağrı aralıklı veya epizodik",
+                "Adet döngüsü",
+                "Ağrı karın bölgesinde bulunuyor, ancak vücudun diğer bölgelerine yayılıyor"
+            ],
+            "disease": "Adet Ağrısı"
+        },
+        {
+            "questions": [
+                "Karın bölgenizde nasıl bir ağrı hissediyorsunuz?",
+                "Ağrı nerede yoğunlaşıyor?",
+                "Ağrı ne zaman başlıyor?",
+                "Ağrı ne kadar sürüyor?",
+                "Ağrı ne zaman kötüleşiyor veya iyileşiyor?",
+                "Başka hangi belirtilerle karşılaşıyorsunuz?"
+            ],
+            "answers": [
+                "Ağrı yoğun, Ağrı keskin",
+                "Üst karın bölgesinde",
+                "Ani (akut)",
+                "Sabit",
+                "Belirli yiyecekleri yedikten sonra",
+                "Ağrı karın bölgesinde bulunuyor, ancak vücudun diğer bölgelerine yayılıyor, Ağrı pozisyon değiştirerek rahatlıyor, Bulantı veya kusma, İstenmeyen kilo kaybı"
+            ],
+            "disease": "Pankreatit"
+        },
+        {
+            "questions": [
+                "Karın bölgenizde nasıl bir ağrı hissediyorsunuz?",
+                "Ağrı nerede yoğunlaşıyor?",
+                "Ağrı ne zaman başlıyor?",
+                "Ağrı ne kadar sürüyor?",
+                "Ağrı ne zaman kötüleşiyor veya iyileşiyor?",
+                "Başka hangi belirtilerle karşılaşıyorsunuz?"
+            ],
+            "answers": [
+                "Ağrı yanıcı, Ağrı yoğun",
+                "Yok",
+                "Ani (akut)",
+                "Sabit",
+                "Yok",
+                "Döküntü"
+            ],
+            "disease": "Zona Hastalığı"
+        }
+    ]
+}
+
+
