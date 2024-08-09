@@ -7,6 +7,22 @@ from sklearn.pipeline import make_pipeline
 from sklearn.preprocessing import LabelEncoder
 from sklearn.metrics import accuracy_score
 
+# category_data.json dosyasını okuma
+with open('category_data.json', 'r', encoding='utf-8') as f:
+    category_data = json.load(f)
+
+# Kategori sınıflandırma verilerini DataFrame'e dönüştürme
+category_df = pd.DataFrame([(cat, text) for cat, texts in category_data.items() for text in texts], columns=['category', 'text'])
+
+# Kategoriler için LabelEncoder
+le_category = LabelEncoder()
+category_df['category'] = le_category.fit_transform(category_df['category'])
+
+# Kategori sınıflandırma için model oluşturma
+X_cat_train, X_cat_test, y_cat_train, y_cat_test = train_test_split(category_df['text'], category_df['category'], test_size=0.2, random_state=42)
+category_model = make_pipeline(TfidfVectorizer(), LogisticRegression())
+category_model.fit(X_cat_train, y_cat_train)
+
 # JSON dosyasını okuma
 with open('datasets.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
@@ -61,17 +77,18 @@ def evaluate_model(model, X_test, y_test):
     y_pred = model.predict(X_test)
     return accuracy_score(y_test, y_pred)
 
-#for name, (X_train, X_test, y_train, y_test) in splits.items():
-#    print(f"{name.capitalize()} modeli doğruluğu: {evaluate_model(models[name], X_test, y_test)}")
-
 # İnteraktif soru-cevap sistemi
 def interactive_diagnosis():
-    area = input("Belirtiniz gözle mi, üriner sistemle mi, boğazla mı, omuzla mı, nefes darlığıyla mı, ayak/bilek ile mi, baş ağrısı ile mi, ellerde uyuşma/karıncalanma ile mi, mide bulantısı/kusma ile mi, yutma zorluğu ile mi, göğüs ağrısı ile mi, karın ağrısı ile mi ilgili? (göz/üriner/boğaz/omuz/nefes/ayak_bilek/baş_ağrısı/ellerde_uyusma_karincalanma/mide_bulantisi_kusma/yutma_zorlugu/gögüs_agrisi/karin_agrisi) ")
+    user_input = input("Lütfen şikayetinizi belirtin: ")
     
-    if area.lower() in models:
-        model = models[area.lower()]
-        questions = data[area.lower()][0]['questions']
-        le_disease = le_encoders[area.lower()]
+    # Kategoriyi tahmin et
+    cat_prediction = category_model.predict([user_input])
+    category = le_category.inverse_transform(cat_prediction)[0]
+    
+    if category in models:
+        model = models[category]
+        questions = data[category][0]['questions']
+        le_disease = le_encoders[category]
     else:
         print("Geçersiz alan. Lütfen doğru bir seçenek giriniz.")
         return
