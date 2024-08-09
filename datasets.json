@@ -1204,43 +1204,36 @@
             "disease": "Burkulma"
         }
     ],
-    "baş_ağrısı": [
+        "baş_ağrısı": [
         {
             "questions": [
                 "Baş ağrınızın şiddeti nasıl?",
-                "Baş ağrınız nasıl başlıyor?",
                 "Baş ağrınız ne kadar sürüyor?",
-                "Baş ağrınız ne zaman kötüleşiyor?",
-                "Baş ağrınız nasıl rahatlıyor?",
-                "Baş ağrınızın niteliği nasıl?",
-                "Baş ağrınız nerede?",
-                "Baş ağrınız başlamadan önce herhangi bir görsel veya duyusal bozukluk yaşıyor musunuz?",
-                "Baş ağrınız aniden mi başlıyor?",
-                "Günlük aktiviteler baş ağrınızı tetikliyor mu?",
-                "Hormonal değişiklikler baş ağrınızı tetikliyor mu?",
-                "Stres baş ağrınızı tetikliyor mu?",
-                "Reçetesiz ağrı kesici ilaçlar baş ağrınızı rahatlatıyor mu?",
-                "Dinlenme baş ağrınızı rahatlatıyor mu?",
+                "Baş ağrınız belirli bir tetikleyiciyle mi ortaya çıkıyor?",
                 "Baş ağrınızla birlikte başka belirtileriniz var mı?"
             ],
             "answers": [
                 "Şiddetli",
-                "Yavaş yavaş",
-                "Birkaç saatten günlere",
-                "Uyku düzenindeki değişiklikler",
-                "Karanlıkta uzanarak",
-                "Orta ila şiddetli",
-                "Başınızın her iki tarafı",
-                "Evet",
-                "Hayır",
-                "Evet",
-                "Evet",
-                "Evet",
-                "Evet",
-                "Evet",
-                "Mide bulantısı veya kusma, Işığa veya gürültüye karşı hassasiyet"
+                "Birkaç saat",
+                "Stres",
+                "Mide bulantısı, ışığa karşı hassasiyet"
             ],
             "disease": "Migren"
+        },
+        {
+            "questions": [
+                "Baş ağrınız nerede?",
+                "Baş ağrınız nasıl başlıyor?",
+                "Baş ağrınızda herhangi bir tetikleyici var mı?",
+                "Baş ağrınız aniden mi başlıyor?"
+            ],
+            "answers": [
+                "Başınızın her iki tarafı",
+                "Yavaş yavaş",
+                "Uyku düzenindeki değişiklikler",
+                "Hayır"
+            ],
+            "disease": "Gerilim Tipi Baş Ağrısı"
         },
         {
             "questions": [
