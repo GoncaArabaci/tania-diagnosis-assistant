@@ -1,4 +1,3 @@
-# tania-diagnosis-assistant
 # TanIA: NLP-Based Decision Support System for Hospitals
 
 ![Ekran görüntüsü 2024-10-16 094456](https://github.com/user-attachments/assets/79c26394-46fb-44e2-bb28-5ffb4172bcc3)
